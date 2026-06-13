@@ -1,0 +1,113 @@
+filters:
+  and:
+    - file.inFolder("Cooking")
+formulas:
+  flat_ingredients: list(Ingredients).flat().sort().unique()
+  ing: |
+    ingredients
+      .map('- [ ] ' + if(value.amount, value.amount + ' ', '') + value.name)
+properties:
+  file.name:
+    displayName: Meal
+  Ingredients:
+    displayName: Ingredients
+  formula.flat_ingredients:
+    displayName: Combined Ingredients
+  file.mtime:
+    displayName: Last Cooked
+views:
+  - type: cards
+    name: Dinners [Card]
+    filters:
+      and:
+        - file.inFolder("Cooking/Dinners")
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.Image
+  - type: cards
+    name: Breakfasts [Card]
+    filters:
+      or:
+        - file.inFolder("Cooking/Breakfasts")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Cook
+        direction: ASC
+    image: note.Image
+  - type: cards
+    name: Baking [Card]
+    filters:
+      or:
+        - file.inFolder("Cooking/Baking")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Cook
+        direction: ASC
+    image: note.Image
+  - type: cards
+    name: All [Card]
+    filters:
+      or:
+        - file.inFolder("Cooking/Dinners")
+        - file.inFolder("Cooking/Breakfasts")
+        - file.inFolder("Cooking/Baking")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Cook
+        direction: ASC
+    image: note.Image
+  - type: cards
+    name: Drinks [Card]
+    filters:
+      or:
+        - file.inFolder("Cooking/Drinks")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Cook
+        direction: ASC
+    image: note.Image
+  - type: table
+    name: All [Table]
+    order:
+      - file.name
+      - Protein
+      - Fats
+      - Carbs
+      - Calories
+      - Category
+      - Image
+      - Class
+    columnSize:
+      file.name: 251
+      note.Image: 826
+  - type: cards
+    name: Snacks
+    filters:
+      and:
+        - file.inFolder("Cooking/Snacks")
+    order:
+      - file.name
+      - Cook
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.Image
