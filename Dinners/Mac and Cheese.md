@@ -1,56 +1,57 @@
 ---
-Class: Recipe
-Carbs:
-Protein:
-Fats:
+type: recipe
+category: pasta
+source:
+image: "https://joyfoodsunshine.com/wp-content/uploads/2019/04/easy-homemade-mac-and-cheese-recipe-10.jpg"
 Cook: false
-Meal: Dinner
-Image: https://joyfoodsunshine.com/wp-content/uploads/2019/04/easy-homemade-mac-and-cheese-recipe-10.jpg
-Calories:
+multiplier: 1
+servings:
+calories:
+protein:
+fat:
+carbs:
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
-# Ingredients
 
-- [ ] 8 ounces [elbow macaroni](https://amzlink.to/az0OAFoJB7Ha5) uncooked
-###### Cheese Sauce
+## Ingredients
 
-- [ ] 2 Tablespoons [salted butter](https://amzlink.to/az00QlHe6w54q)
-- [ ] 2 Tablespoons [all-purpose flour](https://amzlink.to/az0S23es2h7B8)
-- [ ] 1/2 teaspoon [sea salt](https://amzlink.to/az0Kpk7AVDUcy)
-- [ ] 1/4 teaspoon [garlic powder](https://amzlink.to/az0uNf3b1bytM) (optional but recommended)
-- [ ] 1 cup  [whole milk](https://amzlink.to/az06Cc10kcjkN)
-- [ ] 1/4 cup [sour cream](https://amzlink.to/az0oYApNq9EKK) or Greek yogurt
-- [ ] 8 ounces [shredded cheddar cheese](https://amzlink.to/az0ENhQdagNtV) (2 cups)
+- 8 oz Elbow Macaroni Uncooked
 
-# Instructions
+## Instructions
 
-- Cook elbow macaroni according to package instructions. Be sure to add ¼ tsp salt to the water used to boil the noodles. Drain, and set aside.
-    
+1. - Cook elbow macaroni according to package instructions. Be sure to add ¼ tsp salt to the water used to boil the noodles. Drain, and set aside.
 
-#### Make the cheese sauce:
+## Cheese Sauce
 
-- Mix flour, sea salt, and garlic powder together in a small bowl. Set aside.
-    
-- In a medium saucepan over medium heat, melt the butter.
-    
-- Add flour mixture and whisk to combine.
-    
-- Cook for 1 minute until mixture is slightly brown.
-    
-- Add 1 cup milk and whisk until the mixture is smooth.
-    
-- Add sour cream (or Greek yogurt) and whisk until smooth.
-    
-- Cook on medium-high heat until the mixture is thickened (about 3-5 minutes). Do not let it boil.
-    
+- 2 tbsp Salted Butter
+- 2 tbsp All-Purpose Flour
+- 1/2 tsp Sea Salt #IgnoreIngredient
+- 1/4 tsp Garlic Powder (Optional but Recommended)
+- 1 cup Whole Milk
+- 1/4 cup Sour Cream or Greek Yogurt
+- 8 oz Shredded Cheddar Cheese (2 Cups)
 
-- Once mixture is thick (sticks to the back of the spatula), reduce heat to low and add cheese. Whisk until cheese is melted and mixture is smooth. Taste and add more salt/seasoning if desired.
-    
+## Make the cheese sauce
 
-#### Assemble & Serve
+- Mix Flour, Sea Salt, and Garlic Powder Together in a Small Bowl. Set Aside.
+- In a Medium Saucepan Over Medium Heat, Melt the Butter.
+- Add Flour Mixture and Whisk to Combine.
+- Cook for 1 Minute Until Mixture Is Slightly Brown.
+- Add 1 Cup Milk and Whisk Until the Mixture Is Smooth.
+- Add Sour Cream (or Greek Yogurt) and Whisk Until Smooth.
+- Cook on Medium-High Heat Until the Mixture Is Thickened (About 3-5 Minutes). Do Not Let It Boil.
+- Once Mixture Is Thick (Sticks to the Back of the Spatula), Reduce Heat to Low and Add Cheese. Whisk Until Cheese Is Melted and Mixture Is Smooth. Taste and Add More Salt/seasoning If Desired.
 
-- Add cooked pasta to the pot of cheese sauce and stir until the sauce is evenly distributed.
-    
-- Let the mac and cheese cool for 3-5 minutes or until the cheese sauce has thickened a little bit and sticks to the noodles.  Serve warm!
+## Assemble & Serve
 
-
-Serving: 0.5cup | Calories: 271.1kcal | Carbohydrates: 25.3g | Protein: 12.3g | Fat: 13.8g | Saturated Fat: 8.5g | Polyunsaturated Fat: 0.4g | Monounsaturated Fat: 3.5g | Cholesterol: 41.7mg | Sodium: 351mg | Potassium: 102.8mg | Fiber: 1.1g | Sugar: 2.6g | Vitamin A: 460IU | Vitamin C: 0.1mg | Calcium: 252mg | Iron: 0.3mg
+- Add Cooked Pasta to the Pot of Cheese Sauce and Stir Until the Sauce Is Evenly Distributed.
+- Let the Mac and Cheese Cool for 3-5 Minutes or Until the Cheese Sauce Has Thickened a Little Bit and Sticks to the Noodles.
+- Serve Warm!
+- Serving: 0.5cup | Calories: 271.1kcal | Carbohydrates: 25.3g | Protein: 12.3g | Fat: 13.8g | Saturated Fat: 8.5g | Polyunsaturated Fat: 0.4g | Monounsaturated Fat: 3.5g | Cholesterol: 41.7mg | Sodium: 351mg | Potassium: 102.8mg | Fiber: 1.1g | Sugar: 2.6g | Vitamin A: 460IU | Vitamin C: 0.1mg | Calcium: 252mg | Iron: 0.3mg

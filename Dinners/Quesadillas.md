@@ -1,26 +1,37 @@
 ---
-Class: Recipe
-Meal: Dinner
-Image: https://www.homemadeinterest.com/wp-content/uploads/2022/08/chicken-quesadilla-recipe-5.jpg
-Carbs: 35
-Protein: 25
-Fats: 26
+type: recipe
+category: mexican
+source:
+image: "https://www.homemadeinterest.com/wp-content/uploads/2022/08/chicken-quesadilla-recipe-5.jpg"
 Cook: false
-Calories: 480
-Category: Dinner
+multiplier: 1
+servings:
+calories: 480
+protein: 25
+fat: 26
+carbs: 35
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
-# Ingredients
 
-- [ ] 1 lb Chicken Breast #Meat 
-- [ ] 8 Flour Tortillas #Bread
-- [ ] 2 cups Shredded Cheese #Cheese 
-- [ ] 4 tbsp Sour Cream #Dairy 
-- [ ] Chipotle #Sauce 
-- [ ] 5 Ears Corn #Produce 
-- [ ] 1/2 cup Cotija Cheese #Cheese 
-- [ ] 2 Limes #Produce 
+## Ingredients
 
-# Instructions
+- 1 lb Chicken Breast #Meat
+- 8 Flour Tortillas #Bread
+- 2 cup Shredded Cheese #Cheese
+- 4 tbsp Sour Cream #Dairy
+- Chipotle #Sauce
+- 5 Ears Corn #Produce
+- 1/2 cup Cotija Cheese #Cheese
+- 2 Limes #Produce
+
+## Instructions
 
 1. Season and cook chicken breast until done, then dice.
 2. Grill corn and cut kernels off the cob. Mix with cotija cheese and lime juice.

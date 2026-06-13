@@ -1,51 +1,63 @@
 ---
-Class: Recipe
-Carbs: 28
-Protein: 3
-Fats: 9
+type: recipe
+category: dessert
+source:
+image: "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image_2x/public/2025-05/Apple-Cider-Doughnut-Holes_BOTW_2025_INT_ALT_H_297.jpg?itok=FwEJNNUL"
 Cook: false
-Meal: Dessert
-Image: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image_2x/public/2025-05/Apple-Cider-Doughnut-Holes_BOTW_2025_INT_ALT_H_297.jpg?itok=FwEJNNUL
-Calories: 210
-Category: Baking
+multiplier: 1
+servings:
+calories: 210
+protein: 3
+fat: 9
+carbs: 28
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
-# Ingredients
 
-### Batter
+## Ingredients
 
-- [ ] 1/2 cup (99g) granulated sugar #Baking
-- [ ] 1/3 cup (71g) light brown sugar or dark brown sugar, packed #Baking
-- [ ] 4 tablespoons (57g) unsalted butter, softened #Dairy
-- [ ] 1/4 cup (50g) vegetable oil #Pantry
-- [ ] 3/4 teaspoon table salt #Seasoning
-- [ ] 2 large eggs #Dairy
-- [ ] 1 teaspoon King Arthur Pure Vanilla Extract #Baking
-- [ ] 2 2/3 cups (320g) King Arthur Unbleached All-Purpose Flour or King Arthur Gluten-Free Measure for Measure Flour #Baking
-- [ ] 2 teaspoons King Arthur Apple Pie Spice #Seasoning
-- [ ] 1 1/2 teaspoons baking powder #Baking
-- [ ] 1/4 teaspoon baking soda #Baking
-- [ ] 1 cup (227g) milk #Dairy
-- [ ] 3 tablespoons (64g) boiled cider #Pantry
-### Topping
+- 1/2 cup (99g) Granulated Sugar #Baking
+- 1/3 cup (71g) Light Brown Sugar or Dark Brown Sugar, Packed #Baking
+- 4 tbsp (57g) Unsalted Butter, Softened #Dairy
+- 1/4 cup (50g) Vegetable Oil #Pantry #IgnoreIngredient
+- 3/4 tsp Table Salt #Seasoning #IgnoreIngredient
+- 2 Large Eggs #Dairy
+- 1 tsp King Arthur Pure Vanilla Extract #Baking
+- 2 2/3 cup (320g) King Arthur Unbleached All-Purpose Flour or King Arthur Gluten-Free Measure for Measure Flour #Baking
+- 2 tsp King Arthur Apple Pie Spice #Seasoning
+- 1 1/2 tsp Baking Powder #Baking
+- 1/4 tsp Baking Soda #Baking
+- 1 cup (227g) Milk #Dairy
+- 3 tbsp (64g) Boiled Cider #Pantry
+- 10 tbsp (141g) Unsalted Butter, Melted #Dairy
+- 1/4 cup (85g) Boiled Cider #Pantry
+- 1 1/4 cup (248g) Granulated Sugar #Baking
+- 4 1/4 tsp King Arthur Apple Pie Spice #Seasoning
 
-- [ ] 10 tablespoons (141g) unsalted butter, melted #Dairy
-- [ ] 1/4 cup (85g) boiled cider #Pantry
-- [ ] 1 1/4 cups (248g) granulated sugar #Baking
-- [ ] 4 1/4 teaspoons King Arthur Apple Pie Spice #Seasoning
-# Instructions
+## Instructions
 
 1. **Preheat oven** to 425°F with a rack in the center. Lightly grease a mini muffin pan.
 2. **Make the batter**: In a large bowl, mix sugars, butter, oil, and salt with a flexible spatula until smooth.
 3. Add the eggs one at a time, stirring after each. Stir in vanilla.
 4. In a medium bowl, whisk flour, spice, baking powder, and baking soda.
 5. In a liquid measuring cup, whisk milk and boiled cider.
-6. Add one-third of dry mix to butter mixture, stir gently. Add half the liquid. Repeat with another third of dry, remaining liquid, then final dry. Mix gently until mostly smooth (a few lumps are OK).
-7. Portion batter into pan wells (about 22g or heaping tablespoon each). This fills 24 wells; reserve remaining batter.
-8. Bake 7–9 minutes until golden and a toothpick comes out clean.
-### Topping & Finish
+6. Add one-third of dry mix to butter mixture, stir gently.
+7. Add half the liquid.
+8. Repeat with another third of dry, remaining liquid, then final dry.
+9. Mix gently until mostly smooth (a few lumps are OK).
+10. Portion batter into pan wells (about 22g or heaping tablespoon each). This fills 24 wells; reserve remaining batter.
+11. Bake 7–9 minutes until golden and a toothpick comes out clean.
 
-9. While baking, melt butter with boiled cider in microwave (30s increments). Whisk until combined.
-10. In another bowl, whisk sugar and spice.
-11. When doughnut holes are cool enough to handle, remove from pan. Dip each into butter-cider mix, let excess drip, then toss in sugar-spice.
-12. Place on wire rack. Repeat with remaining batter.
-13. Serve warm or at room temperature.
+## Topping & Finish
+
+- While Baking, Melt Butter with Boiled Cider in Microwave (30s Increments). Whisk Until Combined.
+- In Another Bowl, Whisk Sugar and Spice.
+- When Doughnut Holes Are Cool Enough to Handle, Remove from Pan. Dip Each into Butter-Cider Mix, Let Excess Drip, Then Toss in Sugar-Spice.
+- Place on Wire Rack. Repeat with Remaining Batter.
+- Serve Warm or at Room Temperature.

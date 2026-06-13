@@ -1,28 +1,38 @@
 ---
-Class: Recipe
-Carbs: 40
-Protein: 8
-Fats: 9
-Cook:
-Meal:
-Image: https://cookieandkate.com/images/2015/10/best-granola-recipe-1.jpg
-Calories: 280
-Category: Dinner
+type: recipe
+category: breakfast
+source:
+image: "https://cookieandkate.com/images/2015/10/best-granola-recipe-1.jpg"
+Cook: false
+multiplier: 1
+servings:
+calories: 280
+protein: 8
+fat: 9
+carbs: 40
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
-# Ingredients
 
-- [ ] 4 cups Rolled Oats #Baking
-- [ ] 1 1/2 cups Nuts #Pantry
-- [ ] 1 tsp Salt #Seasoning
-- [ ] 1 tsp Cinnamon #Seasoning
-   
-- [ ] 1/2 cup Coconut Oil #Pantry
-- [ ] 1/2 cup Honey #Pantry
-- [ ] 1/2 cup Maple Syrup #Pantry
-- [ ] 1 tsp Extract #Baking
-- [ ] 1/2 cup Coconut Flakes #Pantry
+## Ingredients
 
-# Instructions
+- 4 cup Rolled Oats #Baking
+- 1 1/2 cup Nuts #Pantry
+- 1 tsp Salt #Seasoning #IgnoreIngredient
+- 1 tsp Cinnamon #Seasoning
+- 1/2 cup Coconut Oil #Pantry
+- 1/2 cup Honey #Pantry
+- 1/2 cup Maple Syrup #Pantry
+- 1 tsp Extract #Baking
+- 1/2 cup Coconut Flakes #Pantry
+
+## Instructions
 
 1. Preheat oven to 350 degrees.
 2. Mix together oats, nuts, salt, and cinnamon.

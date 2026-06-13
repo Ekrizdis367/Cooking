@@ -1,39 +1,48 @@
 ---
-Class: Recipe
-Carbs: 45
-Protein: 16
-Fats: 14
+type: recipe
+category: asian
+source:
+image: "https://www.favfamilyrecipes.com/wp-content/uploads/2024/05/Panda-Express-Chow-Mein-pull.jpg"
 Cook: false
-Meal: Dinner
-Image: https://www.favfamilyrecipes.com/wp-content/uploads/2024/05/Panda-Express-Chow-Mein-pull.jpg
-Servings: "8"
-Calories: 380
-Category: Dinner
+multiplier: 1
+servings: 8
+calories: 380
+protein: 16
+fat: 14
+carbs: 45
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
-# Ingredients
 
-- [ ] ¼ cup soy sauce #Sauce 
-- [ ] 1 tablespoon brown sugar #Baking 
-- [ ] 2 cloves garlic, minced #Produce 
-- [ ] 1 teaspoon grated fresh ginger #Produce 
-- [ ] 3 tablespoons vegetable oil #Sauce 
-- [ ] 3 packages Yakisoba noodles (5oz?) or Chinese Egg Noodles (Found in the produce section of the grocery store. Usually, the 3 packages are sold together in one 17oz. pack) #Foreign
-- [ ] ⅔ cup celery chopped diagonally #Produce 
-- [ ] 1 medium onion, thinly sliced #Produce 
-- [ ] 2 cups chopped cabbage #Produce 
-- [ ] 20 oz Chicken #Meat 
+## Ingredients
 
-### INSTRUCTIONS
+- ¼ cup Soy Sauce #Sauce
+- 1 tbsp Brown Sugar #Baking
+- 2 clove Garlic, Minced #Produce
+- 1 tsp Grated Fresh Ginger #Produce
+- 3 tbsp Vegetable Oil #Sauce #IgnoreIngredient
+- 3 pack Yakisoba Noodles (5oz?) or Chinese Egg Noodles (Found in the Produce Section of the Grocery Store. Usually, the 3 Packages Are Sold Together in One 17oz. Pack) #Foreign
+- ⅔ cup Celery Chopped Diagonally #Produce
+- 1 Medium Onion, Thinly Sliced #Produce
+- 2 cup Chopped Cabbage #Produce
+- 20 oz Chicken #Meat
 
-- In a small bowl, combine soy sauce, brown sugar, garlic, ginger, and black pepper. Set aside.
+## Instructions
 
-- Remove noodles from packages and discard included flavoring packets. Rinse noodles well, drain, and set aside. Parboil the noodles if necessary.
+1. - In a small bowl, combine soy sauce, brown sugar, garlic, ginger, and black pepper. Set aside.
+2. - Remove noodles from packages and discard included flavoring packets. Rinse noodles well, drain, and set aside. Parboil the noodles if necessary.
+3. - Heat oil in a large wok or skillet over medium heat.
+4. Add celery and onion and sauté for about 1-2 minutes or until onions start to become soft and transparent.
+5. Add cabbage and sauté an additional minute.
+6. - Add noodles and soy sauce mixture to the vegetables. Stir-fry over medium-high heat for an additional 2-3 minutes or until noodles are heated through.
 
-- Heat oil in a large wok or skillet over medium heat. Add celery and onion and sauté for about 1-2 minutes or until onions start to become soft and transparent. Add cabbage and sauté an additional minute.
+## NOTES
 
-- Add noodles and soy sauce mixture to the vegetables. Stir-fry over medium-high heat for an additional 2-3 minutes or until noodles are heated through.
-
-### NOTES
-
-- In this recipe, you can add a shake or two of sesame oil to the vegetable oil to add a deeper flavor, but don’t overdo it! I am not including it in the recipe because the sesame oil flavoring can become overpowering really quickly if you aren’t careful. I have made it both ways (with and without sesame oil) and they both taste great.
-- Don’t overcook the noodles. Overcooking them can cause them to break. You want them to be just heated through. 
+- In This Recipe, You Can Add a Shake or Two of Sesame Oil to the Vegetable Oil to Add a Deeper Flavor, but Don’t Overdo It! I Am Not Including It in the Recipe Because the Sesame Oil Flavoring Can Become Overpowering Really Quickly If You Aren’t Careful. I Have Made It Both Ways (with and without Sesame Oil) and They Both Taste Great.
+- Don’t Overcook the Noodles. Overcooking Them Can Cause Them to Break. You Want Them to Be Just Heated Through.

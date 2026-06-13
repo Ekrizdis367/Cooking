@@ -1,14 +1,25 @@
 ---
-Class: Recipe
-Carbs: 50
-Protein: 4
-Fats: 18
+type: recipe
+category: dessert
+source:
+image: "https://seattleite.com/wp-content/uploads/2025/01/img_0922-1.jpg?w=1024"
 Cook: false
-Meal: Dessert
-Image: https://seattleite.com/wp-content/uploads/2025/01/img_0922-1.jpg?w=1024
-Calories: 370
-Category: Baking
+multiplier: 1
+servings:
+calories: 370
+protein: 4
+fat: 18
+carbs: 50
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
+
 # Ingredients
 
 Cake

@@ -1,44 +1,56 @@
 ---
-Class: Recipe
+type: recipe
+category: soup
+source: "Dungeons & Dragons"
+image: "https://i.redd.it/f0ho42tz74d61.jpg"
 Cook: false
-Source: Dungeons & Dragons
-Category: Dinner
-Prep Time: 20 minutes
-Cook Time: 1 hour 30 minutes
-Yield: 6 servings
-Image: https://i.redd.it/f0ho42tz74d61.jpg
-Protein: 28
-Fats: 14
-Carbs: 28
-Calories: 350
+multiplier: 1
+servings: 6
+calories: 350
+protein: 28
+fat: 14
+carbs: 28
+diet: []
+allergens: []
+prepTime: 20
+cookTime: 90
+totalTime: 110
+favorite: false
+lastMade:
+cookedCount: 0
 ---
 
-# Ingredients
+## Ingredients
 
-- [ ] ½ cup all-purpose flour #Baking  
-- [ ] 1 teaspoon salt #Seasoning  
-- [ ] 1 teaspoon freshly ground black pepper #Seasoning  
-- [ ] 2 pounds beef stew meat, cut into 1-inch cubes #Meat  
-- [ ] 3 tablespoons vegetable oil #Oil  
-- [ ] 1 cup dark beer or stout #Beverage  
-- [ ] 3 cups beef broth #Broth  
-- [ ] 1 teaspoon Worcestershire sauce #Condiment  
-- [ ] 2 bay leaves #Herb  
-- [ ] 3 medium carrots, sliced #Produce  
-- [ ] 2 medium potatoes, peeled and cubed #Produce  
-- [ ] 1 medium yellow onion, chopped #Produce  
-- [ ] 2 tablespoons tomato paste #Condiment  
-- [ ] ¼ cup chopped fresh parsley #Herb  
+- ½ cup All-Purpose Flour #Baking
+- 1 tsp Salt #Seasoning #IgnoreIngredient
+- 1 tsp Freshly Ground Black Pepper #Seasoning #IgnoreIngredient
+- 2 lb Beef Stew Meat, Cut into 1-Inch Cubes #Meat
+- 3 tbsp Vegetable Oil #Oil #IgnoreIngredient
+- 1 cup Dark Beer or Stout #Beverage
+- 3 cup Beef Broth #Broth
+- 1 tsp Worcestershire Sauce #Condiment
+- 2 Bay Leaves #Herb
+- 3 Medium Carrots, Sliced #Produce
+- 2 Medium Potatoes, Peeled and Cubed #Produce
+- 1 Medium Yellow Onion, Chopped #Produce
+- 2 tbsp Tomato Paste #Condiment
+- ¼ cup Chopped Fresh Parsley #Herb
 
-# Instructions
+## Instructions
 
-1. In a large bowl, combine the flour, 1 teaspoon salt, and several grinds of pepper. Add the beef and toss to coat.  
-2. Warm the oil in a large Dutch oven over medium-high heat. Add one-third of the beef and cook, turning to brown all sides, about 5 minutes per batch. Transfer to a plate and repeat with the remaining beef, adding more oil if needed.  
-3. Pour the beer into the pot and use a wooden spoon to scrape up any browned bits from the bottom. Add the broth, Worcestershire sauce, and bay leaves. Bring to a boil, then reduce to a simmer.  
-4. Add the carrots, potatoes, onion, and tomato paste. Adjust heat to maintain a simmer and cook for about 1 hour, until the beef is tender and the vegetables are cooked through.  
-5. Remove the bay leaves, season with salt and pepper to taste, and stir in the parsley before serving.  
+1. In a large bowl, combine the flour, 1 teaspoon salt, and several grinds of pepper. Add the beef and toss to coat.
+2. Warm the oil in a large Dutch oven over medium-high heat.
+3. Add one-third of the beef and cook, turning to brown all sides, about 5 minutes per batch.
+4. Transfer to a plate and repeat with the remaining beef, adding more oil if needed.
+5. Pour the beer into the pot and use a wooden spoon to scrape up any browned bits from the bottom.
+6. Add the broth, Worcestershire sauce, and bay leaves.
+7. Bring to a boil, then reduce to a simmer.
+8. Add the carrots, potatoes, onion, and tomato paste.
+9. Adjust heat to maintain a simmer and cook for about 1 hour, until the beef is tender and the vegetables are cooked through.
+10. Remove the bay leaves, season with salt and pepper to taste, and stir in the parsley before serving.
 
-# Notes
+## Notes
 
-- For best flavor, serve with crusty bread and butter.  
-- This stew reheats wonderfully for next-day adventuring.  
+- For Best Flavor, Serve with Crusty Bread and Butter.
+- This Stew Reheats Wonderfully for Next-Day Adventuring.

@@ -1,13 +1,25 @@
 ---
-Class: Recipe
-Carbs:
-Protein:
-Fats:
+type: recipe
+category: sandwich
+source:
+image: "https://www.budgetbytes.com/wp-content/uploads/2025/08/Classic-BLT-Front-Wide-Shot.jpg"
 Cook: false
-Meal:
-Image: https://www.budgetbytes.com/wp-content/uploads/2025/08/Classic-BLT-Front-Wide-Shot.jpg
-Calories:
+multiplier: 1
+servings:
+calories:
+protein:
+fat:
+carbs:
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
+
 # Ingredients
 
 - [ ] White bread #Bread 

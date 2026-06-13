@@ -1,28 +1,39 @@
 ---
-Class: Recipe
-Carbs: 50
-Protein: 12
-Fats: 14
-Cook:
-Meal:
-Image: https://tastesbetterfromscratch.com/wp-content/uploads/2022/09/French-Toast-1-500x500.jpg
-Calories: 370
-Category: Breakfast
+type: recipe
+category: breakfast
+source:
+image: "https://tastesbetterfromscratch.com/wp-content/uploads/2022/09/French-Toast-1-500x500.jpg"
+Cook: false
+multiplier: 1
+servings:
+calories: 370
+protein: 12
+fat: 14
+carbs: 50
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
 
-# Ingredients
+## Ingredients
 
 - Brioche Bread
-- 7 eggs
-- 4 tbsp sugar
-- 1/4 tsp salt
-- 1/4 tsp cinnamon
-- 1/4 tsp nutmeg
-- 1/4 tsp extract
-- 2 cups milk
-- maple syrup
-- powdered sugar
-# Instructions
+- 7 Eggs
+- 4 tbsp Sugar
+- 1/4 tsp Salt #IgnoreIngredient
+- 1/4 tsp Cinnamon
+- 1/4 tsp Nutmeg
+- 1/4 tsp Extract
+- 2 cup Milk
+- Maple Syrup
+- Powdered Sugar
+
+## Instructions
 
 1. Preheat oven to 200 degrees if cooking on the stove to keep the finished pieces warm.
 2. Toast the bread in toaster to avoid becoming soggy.

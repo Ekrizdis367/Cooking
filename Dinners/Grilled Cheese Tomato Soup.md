@@ -1,23 +1,34 @@
 ---
-Class: Recipe
-Meal: Dinner
-Image: https://simply-delicious-food.com/wp-content/uploads/2019/08/Tomato-soup-with-grilled-cheese-5.jpg
-Carbs: 35
-Protein: 18
-Fats: 22
+type: recipe
+category: soup
+source:
+image: "https://simply-delicious-food.com/wp-content/uploads/2019/08/Tomato-soup-with-grilled-cheese-5.jpg"
 Cook: false
-Calories: 430
-Category: Dinner
+multiplier: 1
+servings:
+calories: 430
+protein: 18
+fat: 22
+carbs: 35
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
-# Ingredients
 
-- [ ] 8 slices Bread #Bread
-- [ ] 8 slices Cheddar Cheese #Dairy 
-- [ ] 4 tbsp Butter #Dairy
-- [ ] 2 cans Tomato Soup #Canned
-- [ ] 1 cup Milk #Dairy
+## Ingredients
 
-# Instructions
+- 8 slice Bread #Bread
+- 8 slice Cheddar Cheese #Dairy
+- 4 tbsp Butter #Dairy
+- 2 can Tomato Soup #Canned
+- 1 cup Milk #Dairy
+
+## Instructions
 
 1. Heat tomato soup in a pot with milk according to package directions.
 2. Butter one side of each bread slice.

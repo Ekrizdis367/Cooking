@@ -1,13 +1,25 @@
 ---
-Class: Recipe
-Carbs: 45
-Protein: 5
-Fats: 19
+type: recipe
+category: dessert
+source:
+image: "https://tastesbetterfromscratch.com/wp-content/uploads/2017/04/Tres-Leches-Cake-1-1-1024x1536.jpg"
 Cook: false
-Meal: Dessert
-Image: https://tastesbetterfromscratch.com/wp-content/uploads/2017/04/Tres-Leches-Cake-1-1-1024x1536.jpg
-Calories: 400
+multiplier: 1
+servings:
+calories: 400
+protein: 5
+fat: 19
+carbs: 45
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
+
 # Ingredients
 
 ###### Cake

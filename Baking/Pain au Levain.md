@@ -1,14 +1,25 @@
 ---
-Class: Recipe
-Carbs: 60
-Protein: 9
-Fats: 2
-Cook:
-Meal:
-Image: https://balthazar-bakery.myshopify.com/cdn/shop/files/pain_au_levain_sm-846x562.jpg?v=1718219108
-Calories: 290
-Category: Baking
+type: recipe
+category: bread
+source:
+image: "https://balthazar-bakery.myshopify.com/cdn/shop/files/pain_au_levain_sm-846x562.jpg?v=1718219108"
+Cook: false
+multiplier: 1
+servings:
+calories: 290
+protein: 9
+fat: 2
+carbs: 60
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
+
 ## Ingredients
 #### Preferment
 

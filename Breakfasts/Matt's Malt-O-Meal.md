@@ -1,24 +1,34 @@
 ---
-Class: Recipe
-Carbs: 45
-Protein: 8
-Fats: 6
-Cook:
-Meal:
-Image: https://delicioussidedishes.com/wp-content/uploads/2023/05/hot-cereal.jpg
-Calories: 290
-Category: Breakfast
+type: recipe
+category: breakfast
+source:
+image: "https://delicioussidedishes.com/wp-content/uploads/2023/05/hot-cereal.jpg"
+Cook: false
+multiplier: 1
+servings:
+calories: 290
+protein: 8
+fat: 6
+carbs: 45
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
 
-# Ingredients
+## Ingredients
 
-- 6 cups Milk
-- 2 cups Malt-O-Meal
-- 1 pinch of Salt
-- 1/4 brown sugar
-- 1/4 stick of butter
+- 6 cup Milk
+- 2 cup Malt-O-Meal
+- 1 pinch Of Salt
+- 1/4 Brown Sugar
+- 1/4 stick Of Butter
 
-# Instructions
+## Instructions
 
 1. Bring milk and salt to a boil/simmer.
 2. Pour in Malt-o-Meal and stir continuously.

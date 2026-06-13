@@ -9,6 +9,8 @@ formulas:
 properties:
   file.name:
     displayName: Meal
+  category:
+    displayName: Category
   Ingredients:
     displayName: Ingredients
   formula.flat_ingredients:
@@ -27,7 +29,7 @@ views:
     sort:
       - property: file.name
         direction: ASC
-    image: note.Image
+    image: note.image
   - type: cards
     name: Breakfasts [Card]
     filters:
@@ -40,7 +42,7 @@ views:
         direction: ASC
       - property: Cook
         direction: ASC
-    image: note.Image
+    image: note.image
   - type: cards
     name: Baking [Card]
     filters:
@@ -53,7 +55,7 @@ views:
         direction: ASC
       - property: Cook
         direction: ASC
-    image: note.Image
+    image: note.image
   - type: cards
     name: All [Card]
     filters:
@@ -71,7 +73,7 @@ views:
         direction: ASC
       - property: Cook
         direction: ASC
-    image: note.Image
+    image: note.image
   - type: cards
     name: Drinks [Card]
     filters:
@@ -84,21 +86,20 @@ views:
         direction: ASC
       - property: Cook
         direction: ASC
-    image: note.Image
+    image: note.image
   - type: table
     name: All [Table]
     order:
       - file.name
-      - Protein
-      - Fats
-      - Carbs
-      - Calories
-      - Category
-      - Image
-      - Class
+      - category
+      - protein
+      - fat
+      - carbs
+      - calories
+      - totalTime
     columnSize:
       file.name: 251
-      note.Image: 826
+      note.image: 826
   - type: cards
     name: Snacks
     filters:
@@ -110,4 +111,74 @@ views:
     sort:
       - property: file.name
         direction: ASC
-    image: note.Image
+    image: note.image
+  - type: cards
+    name: By Type [Card]
+    filters:
+      and:
+        - 'category != ""'
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - file.name
+      - category
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image
+  - type: cards
+    name: BBQ
+    filters:
+      and:
+        - category == "bbq"
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image
+  - type: cards
+    name: Soup
+    filters:
+      and:
+        - category == "soup"
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image
+  - type: cards
+    name: Pasta
+    filters:
+      and:
+        - category == "pasta"
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image
+  - type: cards
+    name: Mexican
+    filters:
+      and:
+        - category == "mexican"
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image
+  - type: cards
+    name: Asian
+    filters:
+      and:
+        - category == "asian"
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image

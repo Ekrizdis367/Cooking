@@ -1,27 +1,38 @@
 ---
-Class: Recipe
-Carbs: 55
-Protein: 6
-Fats: 10
-Cook:
-Meal:
-Image: https://celebrationgeneration.com/wp-content/uploads/2015/02/Lembas-6.jpg
-Calories: 350
-Category: Baking
+type: recipe
+category: bread
+source:
+image: "https://celebrationgeneration.com/wp-content/uploads/2015/02/Lembas-6.jpg"
+Cook: false
+multiplier: 1
+servings:
+calories: 350
+protein: 6
+fat: 10
+carbs: 55
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
-# Ingredients
 
-- [ ] 2 1/2 cups flour #Baking
-- [ ] 1 tablespoon baking powder #Baking
-- [ ] 1/4 teaspoon of salt #Seasoning
-- [ ] 8 tablespoons of cold butter (1 stick) #Dairy
-- [ ] 1/3 cup of brown sugar #Baking
-- [ ] 1 teaspoon of cinnamon #Seasoning
-- [ ] 1/2 teaspoon maple syrup/honey #Pantry
-- [ ] 2/3 cup of milk/heavy cream #Dairy
-- [ ] 1/2 teaspoon of vanilla #Baking
+## Ingredients
 
-# Directions
+- 2 1/2 cup Flour #Baking
+- 1 tbsp Baking Powder #Baking
+- 1/4 tsp Of Salt #Seasoning
+- 8 tbsp Of Cold Butter (1 Stick) #Dairy
+- 1/3 cup Of Brown Sugar #Baking
+- 1 tsp Of Cinnamon #Seasoning
+- 1/2 tsp Maple Syrup/honey #Pantry
+- 2/3 cup Of Milk/heavy Cream #Dairy
+- 1/2 tsp Of Vanilla #Baking
+
+## Instructions
 
 1. Preheat oven to 425 degrees.
 2. Mix the flour, baking powder, and salt.

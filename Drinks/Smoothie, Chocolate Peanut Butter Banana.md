@@ -1,13 +1,25 @@
 ---
-Class: Recipe
-Carbs: 35
-Protein: 59
-Fats: 8
+type: recipe
+category: drink
+source:
+image: "https://hips.hearstapps.com/hmg-prod/images/chocolate-peanut-butter-banana-healthy-protein-shake-1641845336.jpg?crop=0.8572192513368984xw:1xh;center,top&resize=980:*"
 Cook: false
-Meal: Drink
-Image: https://hips.hearstapps.com/hmg-prod/images/chocolate-peanut-butter-banana-healthy-protein-shake-1641845336.jpg?crop=0.8572192513368984xw:1xh;center,top&resize=980:*
-Calories: 425
+multiplier: 1
+servings:
+calories: 425
+protein: 59
+fat: 8
+carbs: 35
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
+
 # Ingredients
 
 - [ ] 12 oz Water

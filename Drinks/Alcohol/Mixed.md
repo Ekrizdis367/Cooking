@@ -1,13 +1,25 @@
 ---
-Class: Recipe
-Carbs:
-Protein:
-Fats:
+type: recipe
+category: drink
+source:
+image:
 Cook: false
-Meal:
-Image:
-Calories:
+multiplier: 1
+servings:
+calories:
+protein:
+fat:
+carbs:
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
+
 # Ingredients
 
 - [ ] Test

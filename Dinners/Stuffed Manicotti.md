@@ -1,13 +1,25 @@
 ---
-Class: Recipe
-Carbs: 44
-Protein: 26
-Fats: 27
+type: recipe
+category: pasta
+source:
+image: "https://juliasalbum.com/wp-content/uploads/2013/02/8481118736_177f15b687_z.jpg"
 Cook: false
-Meal: Dinner
-Image: https://juliasalbum.com/wp-content/uploads/2013/02/8481118736_177f15b687_z.jpg
-Calories: 544
+multiplier: 1
+servings:
+calories: 544
+protein: 26
+fat: 27
+carbs: 44
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
+
 # Ingredients
 
 - [ ] 9 Manicotti pasta shells #Pasta 

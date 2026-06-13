@@ -1,13 +1,25 @@
 ---
-Class: Recipe
-Carbs: 8
-Protein: 42
-Fats: 3.5
-Meal: Drink
-Image:
-Calories: 230
+type: recipe
+category: drink
+source:
+image:
 Cook: false
+multiplier: 1
+servings:
+calories: 230
+protein: 42
+fat: 3.5
+carbs: 8
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
+
 # Ingredients
 
 - [ ] Test

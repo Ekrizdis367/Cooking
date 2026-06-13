@@ -1,27 +1,37 @@
 ---
-Class: Recipe
-Carbs: 40
-Protein: 4
-Fats: 9
-Cook:
-Meal:
-Image: https://sallysbakingaddiction.com/wp-content/uploads/2018/10/homemade-banana-bread.jpg
-Calories: 270
-Category: Baking
+type: recipe
+category: bread
+source:
+image: "https://sallysbakingaddiction.com/wp-content/uploads/2018/10/homemade-banana-bread.jpg"
+Cook: false
+multiplier: 1
+servings:
+calories: 270
+protein: 4
+fat: 9
+carbs: 40
+diet: []
+allergens: []
+prepTime:
+cookTime:
+totalTime:
+favorite: false
+lastMade:
+cookedCount: 0
 ---
 
-# Ingredients
+## Ingredients
 
-- [ ] 2-3 very ripe bananas #Produce
-- [ ] 1/3 cup  butter #Dairy
-- [ ] 1/2 tsp baking **soda** #Baking
-- [ ] 1 pinch salt #Seasoning
-- [ ] 1/2 cup brown sugar #Baking
-- [ ] 1 large egg #Dairy
-- [ ] 1 tsp vanilla extract #Baking
-- [ ] 1 1/2 cups all-purpose flour #Baking
+- 2-3 Very Ripe Bananas #Produce
+- 1/3 cup Butter #Dairy
+- 1/2 tsp Baking **soda** #Baking
+- 1 pinch Salt #Seasoning #IgnoreIngredient
+- 1/2 cup Brown Sugar #Baking
+- 1 Large Egg #Dairy
+- 1 tsp Vanilla Extract #Baking
+- 1 1/2 cup All-Purpose Flour #Baking
 
-# Instructions
+## Instructions
 
 1. Mix everything together.
 2. Pour into a bread pan.
