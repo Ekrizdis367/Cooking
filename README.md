@@ -74,9 +74,12 @@ view for browsing and filtering the collection by category, favorites, and more.
 
 These recipes are designed to pair with **Pantry**, my Obsidian plugin that
 turns recipe notes into a consolidated, category-grouped grocery list and
-renders each note as an interactive cooking card. Because every recipe here
-already uses Pantry's canonical frontmatter and ingredient format, the whole
-vault drops in with zero conversion:
+renders each note as an interactive cooking card. Install it from the
+[Obsidian community plugins listing](https://community.obsidian.md/plugins/pantry)
+(source and issues on [GitHub](https://github.com/Ekrizdis367/obsidian-pantry)).
+
+Because every recipe here already uses Pantry's canonical frontmatter and
+ingredient format, the whole vault drops in with zero conversion:
 
 - **Recipes as the source of truth.** Flag any note for the week and Pantry adds
   its ingredients to the list.
