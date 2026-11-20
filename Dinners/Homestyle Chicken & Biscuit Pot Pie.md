@@ -2,7 +2,7 @@
 type: recipe
 category: chicken
 source:
-image: "https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/homestyle-chicken-biscuit-pot-pie-0f887fa9.jpg"
+image: https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/homestyle-chicken-biscuit-pot-pie-0f887fa9.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

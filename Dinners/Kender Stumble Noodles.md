@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: pasta
-source: "Dungeons & Dragons"
-image: "https://static.wikia.nocookie.net/forgottenrealms/images/9/93/Kender_Stumblenoodles.png/revision/latest?cb=20231123043451"
+source: Dungeons & Dragons
+image: https://static.wikia.nocookie.net/forgottenrealms/images/9/93/Kender_Stumblenoodles.png/revision/latest?cb=20231123043451
 Cook: false
 multiplier: 1
 servings: 6

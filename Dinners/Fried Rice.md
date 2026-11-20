@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: asian
-source: "https://thedefineddish.com/simple-chicken-fried-rice/"
-image: "https://thedefineddish.com/wp-content/uploads/2024/12/Simple-Chicken-Fried-Rice-5-scaled.jpg"
+source: https://thedefineddish.com/simple-chicken-fried-rice/
+image: https://thedefineddish.com/wp-content/uploads/2024/12/Simple-Chicken-Fried-Rice-5-scaled.jpg
 Cook: false
 multiplier: 1
 servings: 4

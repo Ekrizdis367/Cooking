@@ -2,7 +2,7 @@
 type: recipe
 category: mexican
 source:
-image: "https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6492ec404b18c31a619ff388-743b7c19.jpeg"
+image: https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6492ec404b18c31a619ff388-743b7c19.jpeg
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

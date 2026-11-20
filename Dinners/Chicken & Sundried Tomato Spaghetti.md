@@ -2,7 +2,7 @@
 type: recipe
 category: pasta
 source:
-image: "https://vikalinka.com/wp-content/uploads/2019/07/Chicken-Sun-Dried-Tomato-Pasta-14-Edit.jpg"
+image: https://vikalinka.com/wp-content/uploads/2019/07/Chicken-Sun-Dried-Tomato-Pasta-14-Edit.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -16,8 +16,9 @@ prepTime:
 cookTime:
 totalTime:
 favorite: false
-lastMade: 2026-05-23
-cookedCount: 1
+lastMade:
+cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

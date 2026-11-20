@@ -2,7 +2,7 @@
 type: recipe
 category: pasta
 source:
-image: "https://hips.hearstapps.com/hmg-prod/images/the-best-lasagna-ever-1591124496.jpg?crop=0.654xw:1.00xh;0.0705xw,0&resize=1200:*"
+image: https://hips.hearstapps.com/hmg-prod/images/the-best-lasagna-ever-1591124496.jpg?crop=0.654xw:1.00xh;0.0705xw,0&resize=1200:*
 Cook: false
 multiplier: 1
 servings:

@@ -2,7 +2,7 @@
 type: recipe
 category: beef
 source:
-image: "https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6113d8f2a7edf6589054e582-f47f9eda.jpg"
+image: https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6113d8f2a7edf6589054e582-f47f9eda.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

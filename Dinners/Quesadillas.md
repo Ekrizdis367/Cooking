@@ -2,7 +2,7 @@
 type: recipe
 category: mexican
 source:
-image: "https://www.homemadeinterest.com/wp-content/uploads/2022/08/chicken-quesadilla-recipe-5.jpg"
+image: https://www.homemadeinterest.com/wp-content/uploads/2022/08/chicken-quesadilla-recipe-5.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients
@@ -27,8 +28,6 @@ cookedCount: 0
 - 2 cup Shredded Cheese #Cheese
 - 4 tbsp Sour Cream #Dairy
 - Chipotle #Sauce
-- 5 Ears Corn #Produce
-- 1/2 cup Cotija Cheese #Cheese
 - 2 Limes #Produce
 
 ## Instructions

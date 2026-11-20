@@ -2,7 +2,7 @@
 type: recipe
 category: bread
 source:
-image: "https://balthazar-bakery.myshopify.com/cdn/shop/files/pain_au_levain_sm-846x562.jpg?v=1718219108"
+image: https://balthazar-bakery.myshopify.com/cdn/shop/files/pain_au_levain_sm-846x562.jpg?v=1718219108
 Cook: false
 multiplier: 1
 servings:

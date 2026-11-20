@@ -2,7 +2,7 @@
 type: recipe
 category: soup
 source:
-image: "https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6627cb1d2fa454163f21187b-ce6439ae.jpeg"
+image: https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6627cb1d2fa454163f21187b-ce6439ae.jpeg
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

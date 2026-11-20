@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: chicken
-source: "https://www.allrecipes.com/recipe/223042/chicken-parmesan/"
-image: "https://www.allrecipes.com/thmb/J0U0wHxsY1r-I1JUJ5jXcwCnzRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223042-Chicken-Parmesan-mfs_001-7ab952346edc4b2da36f3c0259b78543.jpg"
+source: https://www.allrecipes.com/recipe/223042/chicken-parmesan/
+image: https://www.allrecipes.com/thmb/J0U0wHxsY1r-I1JUJ5jXcwCnzRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/223042-Chicken-Parmesan-mfs_001-7ab952346edc4b2da36f3c0259b78543.jpg
 Cook: false
 multiplier: 1
 servings: 4

@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: breakfast
-source: "https://www.tasteofhome.com/recipes/farmers-breakfast/"
-image: "https://www.tasteofhome.com/wp-content/uploads/2025/01/Farmer-s-Breakfast-Skillet_EXPS_TOHD24_2223_SheriSilver_3.jpg"
+source: https://www.tasteofhome.com/recipes/farmers-breakfast/
+image: https://www.tasteofhome.com/wp-content/uploads/2025/01/Farmer-s-Breakfast-Skillet_EXPS_TOHD24_2223_SheriSilver_3.jpg
 Cook: false
 multiplier: 1
 servings: 4

@@ -2,7 +2,7 @@
 type: recipe
 category: dessert
 source:
-image: "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image_2x/public/2025-05/Apple-Cider-Doughnut-Holes_BOTW_2025_INT_ALT_H_297.jpg?itok=FwEJNNUL"
+image: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image_2x/public/2025-05/Apple-Cider-Doughnut-Holes_BOTW_2025_INT_ALT_H_297.jpg?itok=FwEJNNUL
 Cook: false
 multiplier: 1
 servings:

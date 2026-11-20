@@ -2,7 +2,7 @@
 type: recipe
 category: sandwich
 source:
-image: "https://www.budgetbytes.com/wp-content/uploads/2025/08/Classic-BLT-Front-Wide-Shot.jpg"
+image: https://www.budgetbytes.com/wp-content/uploads/2025/08/Classic-BLT-Front-Wide-Shot.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -18,9 +18,10 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
-# Ingredients
+## Ingredients
 
 - [ ] White bread #Bread 
 - [ ] Bacon #Meat 
@@ -28,6 +29,5 @@ cookedCount: 0
 - [ ] Tomato #Produce 
 - [ ] Potato salad 
 
-# Instructions
+## Instructions
 
-1. Test

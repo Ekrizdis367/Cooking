@@ -2,7 +2,7 @@
 type: recipe
 category: snack
 source:
-image: "https://cdn.shopify.com/s/files/1/0341/0637/6325/files/MB_carousel_PDP_Alt_Images_dtc_v113.png?v=1748467095&width=1200&height=1200&crop=center"
+image: https://cdn.shopify.com/s/files/1/0341/0637/6325/files/MB_carousel_PDP_Alt_Images_dtc_v113.png?v=1748467095&width=1200&height=1200&crop=center
 Cook: false
 multiplier: 1
 servings:
@@ -20,10 +20,7 @@ lastMade:
 cookedCount: 0
 ---
 
-# Ingredients
+## Ingredients
 
-- [ ] Test
+## Instructions
 
-# Instructions
-
-1. Test

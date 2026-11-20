@@ -2,7 +2,7 @@
 type: recipe
 category: drink
 source:
-image: "https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-us-cuisinart-sfra-Library/default/dw42dcae51/images/recipe-Images/cafe-latte1-recipe_resized.jpg?sw=1200&sh=630"
+image: https://www.cuisinart.com/dw/image/v2/ABAF_PRD/on/demandware.static/-/Sites-us-cuisinart-sfra-Library/default/dw42dcae51/images/recipe-Images/cafe-latte1-recipe_resized.jpg?sw=1200&sh=630
 Cook: false
 multiplier: 1
 servings:
@@ -20,10 +20,7 @@ lastMade:
 cookedCount: 0
 ---
 
-# Ingredients
+## Ingredients
 
-- [ ] Test
+## Instructions
 
-# Instructions
-
-1. Test

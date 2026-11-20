@@ -2,13 +2,13 @@
 type: recipe
 category: mexican
 source: Supernatural
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtReTC-AsQPW8q3WYyxjcD_v-Uv0f7yZNOZw&s"
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtReTC-AsQPW8q3WYyxjcD_v-Uv0f7yZNOZw&s
 Cook: false
 multiplier: 1
 servings: 4
-calories: 540
-protein: 36
-fat: 24
+calories: 600
+protein: 45
+fat: 30
 carbs: 40
 diet: []
 allergens: []

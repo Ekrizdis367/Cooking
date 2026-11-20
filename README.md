@@ -14,8 +14,9 @@ external source, that page is linked in the note's `source` frontmatter.
 Recipes are grouped into folders by meal/type:
 
 ```
-Baking/        Breakfasts/    Dinners/      Drinks/
-Lunches/       Sauces/        Seasonings/   Snacks/
+Appetizers/    Baking/        Breakfasts/   Dinners/
+Drinks/        Lunches/       Sauces/       Seasonings/
+Snacks/
 ```
 
 Every recipe note shares the same normalized frontmatter and body shape, which

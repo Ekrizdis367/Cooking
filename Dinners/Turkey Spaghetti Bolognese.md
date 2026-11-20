@@ -2,8 +2,8 @@
 type: recipe
 category: pasta
 source:
-image: "https://www.foodnetwork.com/content/dam/images/food/fullset/2011/8/10/1/thanksgiving-2011_ei0707-turkey-bolognese_s4x3.jpg"
-Cook: true
+image: https://www.foodnetwork.com/content/dam/images/food/fullset/2011/8/10/1/thanksgiving-2011_ei0707-turkey-bolognese_s4x3.jpg
+Cook: false
 multiplier: 1
 servings:
 calories: 520

@@ -2,7 +2,7 @@
 type: recipe
 category: sandwich
 source:
-image: "https://houseofnasheats.com/wp-content/uploads/2021/09/Slow-Cooker-French-Dip-Sandwiches-10-1.jpg"
+image: https://houseofnasheats.com/wp-content/uploads/2021/09/Slow-Cooker-French-Dip-Sandwiches-10-1.jpg
 Cook: false
 multiplier: 1
 servings:

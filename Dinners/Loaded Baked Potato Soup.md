@@ -2,7 +2,7 @@
 type: recipe
 category: soup
 source:
-image: "https://www.allrecipes.com/thmb/z0n0NVC4FoLSPzOM0TVE6q3bP90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-25665-baked-potato-soup-v-VAT-2x1-05365b10f2564e749eb73159e39d65b7.jpg"
+image: https://www.allrecipes.com/thmb/z0n0NVC4FoLSPzOM0TVE6q3bP90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-25665-baked-potato-soup-v-VAT-2x1-05365b10f2564e749eb73159e39d65b7.jpg
 Cook: false
 multiplier: 1
 servings:

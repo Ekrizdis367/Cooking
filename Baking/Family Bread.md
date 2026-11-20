@@ -2,7 +2,7 @@
 type: recipe
 category: bread
 source:
-image: "https://www.attainable-sustainable.net/wp-content/uploads/2021/10/sandwich-bread-sliced.jpg"
+image: https://www.attainable-sustainable.net/wp-content/uploads/2021/10/sandwich-bread-sliced.jpg
 Cook: false
 multiplier: 1
 servings:

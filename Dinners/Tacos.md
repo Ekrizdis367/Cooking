@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: mexican
-source: "https://www.allrecipes.com/recipe/265382/authentic-baja-mexican-street-tacos-carne-asada/"
-image: "https://www.allrecipes.com/thmb/EaZ-CDSWOxsXAOo5m3JhpsV6k0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5506501-12c9a3fd60f54e08a29431db171a1547.jpg"
+source: https://www.allrecipes.com/recipe/265382/authentic-baja-mexican-street-tacos-carne-asada/
+image: https://www.allrecipes.com/thmb/EaZ-CDSWOxsXAOo5m3JhpsV6k0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5506501-12c9a3fd60f54e08a29431db171a1547.jpg
 Cook: false
 multiplier: 1
 servings: 16

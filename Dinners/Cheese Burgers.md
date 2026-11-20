@@ -2,7 +2,7 @@
 type: recipe
 category: sandwich
 source:
-image: "https://www.recipetineats.com/tachyon/2022/08/Stack-of-cheeseburgers.jpg"
+image: https://www.recipetineats.com/tachyon/2022/08/Stack-of-cheeseburgers.jpg
 Cook: false
 multiplier: 1
 servings:

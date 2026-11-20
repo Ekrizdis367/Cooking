@@ -2,7 +2,7 @@
 type: recipe
 category: dessert
 source:
-image: "https://tastesbetterfromscratch.com/wp-content/uploads/2017/04/Tres-Leches-Cake-1-1-1024x1536.jpg"
+image: https://tastesbetterfromscratch.com/wp-content/uploads/2017/04/Tres-Leches-Cake-1-1-1024x1536.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -20,7 +20,7 @@ lastMade:
 cookedCount: 0
 ---
 
-# Ingredients
+## Ingredients
 
 ###### Cake
 
@@ -39,7 +39,7 @@ cookedCount: 0
 - [ ] 2 cups cold heavy whipping cream
 - [ ] 1/2 cup granulated sugar or 1 cup powdered sugar
 - [ ] 1/2 teaspoon vanilla extract
-# Instructions
+## Instructions
 
 ###### Whipped Cream
 

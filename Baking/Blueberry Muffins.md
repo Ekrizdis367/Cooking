@@ -2,7 +2,7 @@
 type: recipe
 category: dessert
 source:
-image: "https://www.kingarthurbaking.com/sites/default/files/2022-12/KABC_Quick-Breads_Blueberry-Muffin_08304.jpg"
+image: https://www.kingarthurbaking.com/sites/default/files/2022-12/KABC_Quick-Breads_Blueberry-Muffin_08304.jpg
 Cook: false
 multiplier: 1
 servings:

@@ -2,7 +2,7 @@
 type: recipe
 category: breakfast
 source:
-image: "https://thebigmansworld.com/wp-content/uploads/2022/07/over-easy-eggs.jpg"
+image: https://thebigmansworld.com/wp-content/uploads/2022/07/over-easy-eggs.jpg
 Cook: false
 multiplier: 1
 servings:

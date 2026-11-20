@@ -2,7 +2,7 @@
 type: recipe
 category: asian
 source:
-image: "https://www.allrecipes.com/thmb/1OYX_Zd_sQ_GM4NAKNDITEiyWWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257429-egg-roll-bowl-ddmfs-Beauty-3x4-be2eb66e6a8e4a76a52bd6480f98f158.jpg"
+image: https://www.allrecipes.com/thmb/1OYX_Zd_sQ_GM4NAKNDITEiyWWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257429-egg-roll-bowl-ddmfs-Beauty-3x4-be2eb66e6a8e4a76a52bd6480f98f158.jpg
 Cook: false
 multiplier: 1
 servings:

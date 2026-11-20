@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: dessert
-source: "https://sallysbakingaddiction.com/buttermilk-pancakes-recipe/"
-image: "https://sallysbakingaddiction.com/wp-content/uploads/2025/03/pancakes-225x225.jpg"
+source: https://sallysbakingaddiction.com/buttermilk-pancakes-recipe/
+image: https://sallysbakingaddiction.com/wp-content/uploads/2025/03/pancakes-225x225.jpg
 Cook: false
 multiplier: 1
 servings: 14

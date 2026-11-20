@@ -2,7 +2,7 @@
 type: recipe
 category: pasta
 source:
-image: "https://www.favfamilyrecipes.com/wp-content/uploads/2023/09/Mizithra-Pasta-5.jpg"
+image: https://www.favfamilyrecipes.com/wp-content/uploads/2023/09/Mizithra-Pasta-5.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -29,16 +29,16 @@ cookedCount: 0
 
 ## Instructions
 
-1. - Slowly melt butter in a small saucepan over medium heat until golden brown about 4 minutes.
+1. Slowly melt butter in a small saucepan over medium heat until golden brown about 4 minutes.
 2. The butter will foam up and rise, but just keep stirring until it turns brown.
-3. - Remove pan from heat and pour melted butter into a tempered glass bowl or measuring bowl.
+3. Remove pan from heat and pour melted butter into a tempered glass bowl or measuring bowl.
 4. Allow the sediment to settle at the bottom of the bowl for a few minutes.
 5. Do not stir up the sediment; you want the clear butter separated from the sediment at the bottom.
 6. Pour the browned butter into a separate bowl, keeping the butter separated from the sediment.
 7. Discard the sediment.
-8. - Toss the cooked pasta with the butter. Reserve ½ cup mizithra cheese. Stir the remaining cheese into the butter-coated pasta.
-9. - Sprinkle reserved ½ cup cheese on top. Garnish with sliced fresh basil.
-10. - Serve immediately.
+8. Toss the cooked pasta with the butter. Reserve ½ cup mizithra cheese. Stir the remaining cheese into the butter-coated pasta.
+9. Sprinkle reserved ½ cup cheese on top. Garnish with sliced fresh basil.
+10. Serve immediately.
 
 ## NOTES
 

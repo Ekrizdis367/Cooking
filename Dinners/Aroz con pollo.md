@@ -2,7 +2,7 @@
 type: recipe
 category: rice
 source:
-image: "https://hips.hearstapps.com/hmg-prod/images/arroz-con-pollo-lead-66b11890ed060.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+image: https://hips.hearstapps.com/hmg-prod/images/arroz-con-pollo-lead-66b11890ed060.jpg?crop=1xw:1xh;center,top&resize=1200:*
 Cook: false
 multiplier: 1
 servings:

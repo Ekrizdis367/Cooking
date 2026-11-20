@@ -2,7 +2,7 @@
 type: recipe
 category: chicken
 source:
-image: "https://thecozycook.com/wp-content/uploads/2021/12/Chicken-and-Dumplings-f-2.jpg"
+image: https://thecozycook.com/wp-content/uploads/2021/12/Chicken-and-Dumplings-f-2.jpg
 Cook: false
 multiplier: 1
 servings:

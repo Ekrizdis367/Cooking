@@ -1,15 +1,15 @@
 ---
 type: recipe
 category: sandwich
-source: "https://www.tasteofhome.com/recipes/crispy-chicken-sandwich-recipe/"
-image: "https://www.tasteofhome.com/wp-content/uploads/2024/02/Crispy-Chicken-Sandwich_EXPS_TOHcom23_273477_DR_04_26_6b.jpg"
+source: "[https://www.tasteofhome.com/recipes/crispy-chicken-sandwich-recipe/](https://www.hellofresh.com/recipes/slammin-secret-sauce-chicken-sandwiches-61703f5b3ad9be10e07a7ab5)"
+image: https://media.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/61703f5b3ad9be10e07a7ab5/step-1fe0b7f2.jpg
 Cook: false
 multiplier: 1
 servings: 6
-calories: 543
-protein: 30
-fat: 18
-carbs: 63
+calories: 530
+protein: 38
+fat: 19
+carbs: 47
 diet: []
 allergens: []
 prepTime: 15
@@ -18,37 +18,31 @@ totalTime: 35
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients
 
-- 3 Boneless Skinless Chicken Breast Halves (6 Ounces Each)
-- 3/4 cup Buttermilk
-- 2 tsp Hot Pepper Sauce
-- 2 Large Eggs, Beaten
-- 2 cup All-Purpose Flour
-- 1 tbsp Plus 1 Teaspoon Garlic Powder
-- 1 tbsp Onion Powder
-- 1 tbsp Paprika
-- 2 tsp Pepper #IgnoreIngredient
-- 1 tsp Salt #IgnoreIngredient
-- Oil for Deep-Fat Frying
-- 6 Brioche Hamburger Buns, Split and Toasted
-- Optional: Shredded Lettuce, Sliced Tomatoes, Pickle Slices, Onion Slices, Mayonnaise
+- 3 unit Sliced Dill Pickle
+- 3 unit Frank's Hot Sauce
+- 6 tablespoon Sour Cream
+- 10 teaspoon White Wine Vinegar
+- 6 tablespoon Mayonnaise
+- 6 unit Brioche Buns
+- 12 ounce Shredded Red Cabbage
+- 3 tablespoon Sweet and Smoky BBQ Seasoning
+- 30 ounce Chicken Cutlets
+- 6 unit Scallions
 
 ## Instructions
 
-1. Cut each chicken breast horizontally in half, then place the halves in a large bowl.
-2. Add the buttermilk and hot sauce, and toss the chicken until it's coated.
-3. Refrigerate the chicken in the marinade, covered, for eight hours or overnight.
-4. Stir the eggs into the chicken mixture.
-5. In a shallow dish, whisk together the flour, garlic powder, onion powder, paprika, pepper and salt.
-6. Remove the chicken breasts from the buttermilk mixture and dredge them in the flour mixture, firmly patting to help the coating adhere.
-7. Repeat, dipping the chicken again into the buttermilk mixture and then dredging it once more in the flour mixture.
-8. Place the chicken on a wire rack over a baking sheet. Refrigerate the chicken, uncovered, for 30 minutes.
-9. In an electric skillet or deep-fat fryer, heat the oil to 375°F.
-10. Fry the chicken in batches until a thermometer reads 165° and the coating is golden brown and crispy, about three to four minutes on each side.
-11. Once fried, transfer the chicken to a wire rack to maintain its crispiness.
-12. Editor's Tip: Don't overcrowd the pan, and don't skimp on the oil!
-13. Make sure there is enough to fully submerge your chicken, while leaving a couple inches at the top to leave room for bubbling oil.
-14. Serve the chicken in buns with the optional toppings. Editor's Tip: Toast the buns in an air fryer or under a broiler for extra texture and flavor.
+  
+1. Wash and dry produce.
+2. Trim and thinly slice scallions. Finely chop a few pickle slices until you have 1 tsp (2 tsp for 4 servings).
+3. In a medium bowl, combine scallions, sour cream, half the vinegar (all for 4), 1½ tsp sugar (3 tsp for 4), and a dash or two of Frank’s Hot Sauce (save the rest for step 3). Add cabbage and toss to combine. Season with salt and pepper.
+4. Pat chicken* dry with paper towels. Place between two large pieces of plastic wrap. Pound with a mallet or heavy-bottomed pan until about 1⁄3 inch thick. Season with salt and pepper, then rub all over with BBQ Seasoning.
+5. Heat a large drizzle of oil in a large pan over medium-high heat. Add chicken and cook until browned and cooked through, 3-4 minutes per side.
+6. While chicken cooks, halve and toast buns until golden; spread cut sides with 1 TBSP butter (2 TBSP for 4 servings).
+7. In a small bowl, combine mayonnaise, chopped pickle, ¼ tsp sugar (½ tsp for 4), and as much remaining Frank’s Hot Sauce as you like. 
+   TIP: Start with half the remaining hot sauce, then taste and add more from there if you like things spicy.
+8. Spread bottom buns with secret sauce. Fill buns with chicken and as much sliced pickle as you like. • Divide sandwiches and slaw between plates. Serve.

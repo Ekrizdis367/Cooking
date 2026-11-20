@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: pasta
-source: "Critical Role"
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTZtp5IBDvji2RInCy_bydZWR7Q9ugQh-JhTRc2HgpuQuRwuo2AyJwbEJ6PMqcbb0tIU&usqp=CAU"
+source: Critical Role
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTZtp5IBDvji2RInCy_bydZWR7Q9ugQh-JhTRc2HgpuQuRwuo2AyJwbEJ6PMqcbb0tIU&usqp=CAU
 Cook: false
 multiplier: 1
 servings: 4

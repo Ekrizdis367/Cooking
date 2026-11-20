@@ -2,7 +2,7 @@
 type: recipe
 category: chicken
 source:
-image: "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/street-cart-style-chicken-bowls-d9b9cadb.jpg"
+image: https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/street-cart-style-chicken-bowls-d9b9cadb.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

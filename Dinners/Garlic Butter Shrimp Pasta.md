@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: pasta
-source: "https://damndelicious.net/2015/03/13/garlic-butter-shrimp-pasta/"
-image: "https://damndelicious.net/wp-content/uploads/2015/03/IMG_2308edit.jpg"
+source: https://damndelicious.net/2015/03/13/garlic-butter-shrimp-pasta/
+image: https://damndelicious.net/wp-content/uploads/2015/03/IMG_2308edit.jpg
 Cook: false
 multiplier: 1
 servings: 4

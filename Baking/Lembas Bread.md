@@ -2,7 +2,7 @@
 type: recipe
 category: bread
 source:
-image: "https://celebrationgeneration.com/wp-content/uploads/2015/02/Lembas-6.jpg"
+image: https://celebrationgeneration.com/wp-content/uploads/2015/02/Lembas-6.jpg
 Cook: false
 multiplier: 1
 servings:

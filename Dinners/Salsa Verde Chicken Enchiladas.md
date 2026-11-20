@@ -2,7 +2,7 @@
 type: recipe
 category: mexican
 source:
-image: "https://static01.nyt.com/images/2019/01/08/dining/08CHICKEN-ENCHILADA/08CHICKEN-ENCHILADA-threeByTwoMediumAt2X-v2.jpg"
+image: https://static01.nyt.com/images/2019/01/08/dining/08CHICKEN-ENCHILADA/08CHICKEN-ENCHILADA-threeByTwoMediumAt2X-v2.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

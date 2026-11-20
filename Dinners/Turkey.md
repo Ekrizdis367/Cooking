@@ -2,7 +2,7 @@
 type: recipe
 category: bbq
 source:
-image: "https://tastesbetterfromscratch.com/wp-content/uploads/2017/07/Easy-No-Fuss-Thanksgiving-Turkey-14-500x500.jpg"
+image: https://tastesbetterfromscratch.com/wp-content/uploads/2017/07/Easy-No-Fuss-Thanksgiving-Turkey-14-500x500.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -32,25 +32,25 @@ cookedCount: 0
 
 ## Instructions
 
-1. - If the turkey is frozen: Thaw in the fridge, 24 hours for every 5 pounds of Turkey. I like to give myself 1 extra day, just to be safe.
-2. - Remove the thawed turkey from the fridge 1 hour before roasting, to let it come to room temperature.
-3. - Adjust your oven rack so the turkey will sit in the center of the oven. Preheat oven to 325 degrees F.
-4. - Make the herb butter by combining room temperature butter, minced garlic, salt, pepper, one tablespoon fresh chopped rosemary, one tablespoon fresh chopped thyme, and half a tablespoon of fresh chopped sage.
+1. If the turkey is frozen: Thaw in the fridge, 24 hours for every 5 pounds of Turkey. I like to give myself 1 extra day, just to be safe.
+2. Remove the thawed turkey from the fridge 1 hour before roasting, to let it come to room temperature.
+3. Adjust your oven rack so the turkey will sit in the center of the oven. Preheat oven to 325 degrees F.
+4. Make the herb butter by combining room temperature butter, minced garlic, salt, pepper, one tablespoon fresh chopped rosemary, one tablespoon fresh chopped thyme, and half a tablespoon of fresh chopped sage.
 5. (You’ll use the remaining fresh herbs for stuffing inside the cavity of the turkey)
-6. - Remove turkey from packaging and remove the neck and giblets from the inside the cavities of the bird.
+6. Remove turkey from packaging and remove the neck and giblets from the inside the cavities of the bird.
 7. (Reserve them for gravy, if you want, or discard them).
 8. Pat the turkey very dry with paper towels.
-9. - Season the cavity of the turkey with salt and pepper. Stuff it with the quartered lemon, onion and apple and leftover herbs.
-10. - Use your fingers to loosen and lift the skin above the breasts (on the top of the turkey) and smooth a few tablespoons of the herb butter underneath.
-11. - Tuck the wings of the turkey underneath the turkey and set the turkey on a roasting rack inside a roasting pan*.
-12. - Microwave the remaining herb butter mixture for 30 seconds (it doesn’t need to be completely melted--just really softened).
+9. Season the cavity of the turkey with salt and pepper. Stuff it with the quartered lemon, onion and apple and leftover herbs.
+10. Use your fingers to loosen and lift the skin above the breasts (on the top of the turkey) and smooth a few tablespoons of the herb butter underneath.
+11. Tuck the wings of the turkey underneath the turkey and set the turkey on a roasting rack inside a roasting pan*.
+12. Microwave the remaining herb butter mixture for 30 seconds (it doesn’t need to be completely melted--just really softened).
 13. Use a basting brush to brush the remaining herb butter all over the outside of the turkey, legs and wings.
-14. - Roast at 325 degrees F for about 13-15 minutes per pound, or until internal temperature (inserted on middle of thigh and breast) reaches about 165 degrees.
+14. Roast at 325 degrees F for about 13-15 minutes per pound, or until internal temperature (inserted on middle of thigh and breast) reaches about 165 degrees.
 15. I tent it with foil and let it rest on the counter then move it to a large cutting board inside a sheet pan to catch any extra turkey juices while carving.
-16. - ***Check the turkey about halfway through cooking, and once the skin gets golden brown, cover the top of the turkey with tinfoil, to protect the breast meat from overcooking.
+16. ***Check the turkey about halfway through cooking, and once the skin gets golden brown, cover the top of the turkey with tinfoil, to protect the breast meat from overcooking.
 17. Alternately, you could start cooking the turkey with it tented in foil, then during the last hour or so of cooking you can take the foil off to let the turkey brown.
-18. - Allow turkey to rest for 20-30 minutes before [carving](https://tastesbetterfromscratch.com/how-to-carve-a-turkey/). [https://tastesbetterfromscratch.com/how-to-carve-a-turkey/](https://tastesbetterfromscratch.com/how-to-carve-a-turkey/)
-19. - Reserve any drippings and juice remaining in your roasting pan to make [turkey gravy](https://tastesbetterfromscratch.com/turkey-gravy/).
+18. Allow turkey to rest for 20-30 minutes before [carving](https://tastesbetterfromscratch.com/how-to-carve-a-turkey/). [https://tastesbetterfromscratch.com/how-to-carve-a-turkey/](https://tastesbetterfromscratch.com/how-to-carve-a-turkey/)
+19. Reserve any drippings and juice remaining in your roasting pan to make [turkey gravy](https://tastesbetterfromscratch.com/turkey-gravy/).
 20. Notes
 21. https://tastesbetterfromscratch.com/easy-no-fuss-thanksgiving-turkey/
 22. Turkey Size: if you're cooking for a smaller crowd (or just like white meat), try my Turkey Breast recipe.

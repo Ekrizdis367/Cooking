@@ -2,14 +2,14 @@
 type: recipe
 category: pasta
 source:
-image: "https://joyfoodsunshine.com/wp-content/uploads/2019/04/easy-homemade-mac-and-cheese-recipe-10.jpg"
+image: https://joyfoodsunshine.com/wp-content/uploads/2019/04/easy-homemade-mac-and-cheese-recipe-10.jpg
 Cook: false
 multiplier: 1
-servings:
-calories:
-protein:
-fat:
-carbs:
+servings: 8
+calories: 271
+protein: 12
+fat: 14
+carbs: 25
 diet: []
 allergens: []
 prepTime:
@@ -26,7 +26,7 @@ cookedCount: 0
 
 ## Instructions
 
-1. - Cook elbow macaroni according to package instructions. Be sure to add ¼ tsp salt to the water used to boil the noodles. Drain, and set aside.
+1. Cook elbow macaroni according to package instructions. Be sure to add ¼ tsp salt to the water used to boil the noodles. Drain, and set aside.
 
 ## Cheese Sauce
 
@@ -54,4 +54,3 @@ cookedCount: 0
 - Add Cooked Pasta to the Pot of Cheese Sauce and Stir Until the Sauce Is Evenly Distributed.
 - Let the Mac and Cheese Cool for 3-5 Minutes or Until the Cheese Sauce Has Thickened a Little Bit and Sticks to the Noodles.
 - Serve Warm!
-- Serving: 0.5cup | Calories: 271.1kcal | Carbohydrates: 25.3g | Protein: 12.3g | Fat: 13.8g | Saturated Fat: 8.5g | Polyunsaturated Fat: 0.4g | Monounsaturated Fat: 3.5g | Cholesterol: 41.7mg | Sodium: 351mg | Potassium: 102.8mg | Fiber: 1.1g | Sugar: 2.6g | Vitamin A: 460IU | Vitamin C: 0.1mg | Calcium: 252mg | Iron: 0.3mg

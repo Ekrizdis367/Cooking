@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: seafood
-source: "https://damndelicious.net/2013/07/16/honey-walnut-shrimp/"
-image: "https://damndelicious.net/wp-content/uploads/2013/07/Honey-Walnut-ShrimpIMG_1377.jpg"
+source: https://damndelicious.net/2013/07/16/honey-walnut-shrimp/
+image: https://damndelicious.net/wp-content/uploads/2013/07/Honey-Walnut-ShrimpIMG_1377.jpg
 Cook: false
 multiplier: 1
 servings: 4

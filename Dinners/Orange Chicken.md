@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: asian
-source: "https://www.tasteofhome.com/recipes/copycat-panda-express-orange-chicken/"
-image: "https://www.tasteofhome.com/wp-content/uploads/2024/12/Copycat-Panda-Express-Orange-Chicken_EXPS_FT24_278652_JR_1126_9.jpg"
+source: https://www.tasteofhome.com/recipes/copycat-panda-express-orange-chicken/
+image: https://www.tasteofhome.com/wp-content/uploads/2024/12/Copycat-Panda-Express-Orange-Chicken_EXPS_FT24_278652_JR_1126_9.jpg
 Cook: false
 multiplier: 1
 servings: 8

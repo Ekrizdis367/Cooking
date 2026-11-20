@@ -2,7 +2,7 @@
 type: recipe
 category: soup
 source:
-image: "https://vikalinka.com/wp-content/uploads/2021/10/Chicken-Noodle-Soup-5.jpg"
+image: https://vikalinka.com/wp-content/uploads/2021/10/Chicken-Noodle-Soup-5.jpg
 Cook: false
 multiplier: 1
 servings:

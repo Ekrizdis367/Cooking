@@ -2,7 +2,7 @@
 type: recipe
 category: pasta
 source:
-image: "https://img.taste.com.au/sE-X5HqY/taste/2024/03/5-ingredient-turbo-charged-spaghetti-recipe-196959-1.jpg"
+image: https://img.taste.com.au/sE-X5HqY/taste/2024/03/5-ingredient-turbo-charged-spaghetti-recipe-196959-1.jpg
 Cook: false
 multiplier: 1
 servings:

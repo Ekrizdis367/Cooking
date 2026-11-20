@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: seafood
-source: "https://www.themediterraneandish.com/gambas-al-ajillo-spanish-shrimp/"
-image: "https://www.themediterraneandish.com/wp-content/uploads/2020/11/gambas-al-ajillo-spanish-shrimp-recipe-9.jpg"
+source: https://www.themediterraneandish.com/gambas-al-ajillo-spanish-shrimp/
+image: https://www.themediterraneandish.com/wp-content/uploads/2020/11/gambas-al-ajillo-spanish-shrimp-recipe-9.jpg
 Cook: false
 multiplier: 1
 servings: 6

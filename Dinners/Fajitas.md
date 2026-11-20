@@ -2,7 +2,7 @@
 type: recipe
 category: mexican
 source:
-image: "https://www.tasteofhome.com/wp-content/uploads/2018/01/Flavorful-Chicken-Fajitas_EXPS_CIW19_12540_B08_30_6b-e1722260583441.jpg"
+image: https://www.tasteofhome.com/wp-content/uploads/2018/01/Flavorful-Chicken-Fajitas_EXPS_CIW19_12540_B08_30_6b-e1722260583441.jpg
 Cook: false
 multiplier: 1
 servings:

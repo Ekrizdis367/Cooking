@@ -2,7 +2,7 @@
 type: recipe
 category: bread
 source:
-image: "https://www.momontimeout.com/wp-content/uploads/2018/03/from-scratch-dinner-rolls.jpg"
+image: https://www.momontimeout.com/wp-content/uploads/2018/03/from-scratch-dinner-rolls.jpg
 Cook: false
 multiplier: 1
 servings:

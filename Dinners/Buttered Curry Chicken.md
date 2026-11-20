@@ -2,7 +2,7 @@
 type: recipe
 category: chicken
 source:
-image: "https://littlesunnykitchen.com/wp-content/uploads/Instant-Pot-butter-chicken-9.jpg"
+image: https://littlesunnykitchen.com/wp-content/uploads/Instant-Pot-butter-chicken-9.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

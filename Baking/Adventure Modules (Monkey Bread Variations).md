@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: bread
-source: "Dungeons & Dragons"
-image: "https://sallysbakingaddiction.com/wp-content/uploads/2014/06/monkey-bread-in-bundt-pan-2.jpg"
+source: Dungeons & Dragons
+image: https://sallysbakingaddiction.com/wp-content/uploads/2014/06/monkey-bread-in-bundt-pan-2.jpg
 Cook: false
 multiplier: 1
 servings: 6

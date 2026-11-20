@@ -2,7 +2,7 @@
 type: recipe
 category: soup
 source:
-image: "https://hips.hearstapps.com/hmg-prod/images/best-ever-beef-chili-index-1677260488.jpg?crop=0.502xw:1.00xh;0.311xw,0&resize=1200:*"
+image: https://hips.hearstapps.com/hmg-prod/images/best-ever-beef-chili-index-1677260488.jpg?crop=0.502xw:1.00xh;0.311xw,0&resize=1200:*
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

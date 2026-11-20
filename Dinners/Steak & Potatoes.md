@@ -2,7 +2,7 @@
 type: recipe
 category: beef
 source:
-image: "https://www.spendwithpennies.com/wp-content/uploads/2023/01/1200-Rosemary-Steak-and-Potatoes-SpendWithPennies.jpg"
+image: https://www.spendwithpennies.com/wp-content/uploads/2023/01/1200-Rosemary-Steak-and-Potatoes-SpendWithPennies.jpg
 Cook: false
 multiplier: 1
 servings:

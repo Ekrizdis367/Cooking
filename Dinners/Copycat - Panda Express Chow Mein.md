@@ -2,7 +2,7 @@
 type: recipe
 category: asian
 source:
-image: "https://www.favfamilyrecipes.com/wp-content/uploads/2024/05/Panda-Express-Chow-Mein-pull.jpg"
+image: https://www.favfamilyrecipes.com/wp-content/uploads/2024/05/Panda-Express-Chow-Mein-pull.jpg
 Cook: false
 multiplier: 1
 servings: 8
@@ -35,12 +35,12 @@ cookedCount: 0
 
 ## Instructions
 
-1. - In a small bowl, combine soy sauce, brown sugar, garlic, ginger, and black pepper. Set aside.
-2. - Remove noodles from packages and discard included flavoring packets. Rinse noodles well, drain, and set aside. Parboil the noodles if necessary.
-3. - Heat oil in a large wok or skillet over medium heat.
+1. In a small bowl, combine soy sauce, brown sugar, garlic, ginger, and black pepper. Set aside.
+2. Remove noodles from packages and discard included flavoring packets. Rinse noodles well, drain, and set aside. Parboil the noodles if necessary.
+3. Heat oil in a large wok or skillet over medium heat.
 4. Add celery and onion and sauté for about 1-2 minutes or until onions start to become soft and transparent.
 5. Add cabbage and sauté an additional minute.
-6. - Add noodles and soy sauce mixture to the vegetables. Stir-fry over medium-high heat for an additional 2-3 minutes or until noodles are heated through.
+6. Add noodles and soy sauce mixture to the vegetables. Stir-fry over medium-high heat for an additional 2-3 minutes or until noodles are heated through.
 
 ## NOTES
 

@@ -2,7 +2,7 @@
 type: recipe
 category: breakfast
 source:
-image: "https://www.kingarthurbaking.com/sites/default/files/recipe_legacy/6897-3-large.jpg"
+image: https://www.kingarthurbaking.com/sites/default/files/recipe_legacy/6897-3-large.jpg
 Cook: false
 multiplier: 1
 servings:

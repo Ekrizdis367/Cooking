@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: soup
-source: "Dungeons & Dragons"
-image: "https://i.redd.it/fu46rjtvbth71.jpg"
+source: Dungeons & Dragons
+image: https://i.redd.it/fu46rjtvbth71.jpg
 Cook: false
 multiplier: 1
 servings: 6

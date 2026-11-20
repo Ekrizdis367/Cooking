@@ -2,7 +2,7 @@
 type: recipe
 category: bbq
 source: Supernatural
-image: "https://preview.redd.it/nlg8azm6e1x41.jpg?width=640&crop=smart&auto=webp&s=5c0ba0675386410671e95bf6beb617b1e0074e3d"
+image: https://preview.redd.it/nlg8azm6e1x41.jpg?width=640&crop=smart&auto=webp&s=5c0ba0675386410671e95bf6beb617b1e0074e3d
 Cook: false
 multiplier: 1
 servings: 4

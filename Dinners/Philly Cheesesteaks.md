@@ -2,8 +2,8 @@
 type: recipe
 category: sandwich
 source:
-image: "https://static01.nyt.com/images/2024/02/06/multimedia/KD-philly-cheesesteak-mhqc/KD-philly-cheesesteak-mhqc-mediumSquareAt3X.jpg"
-Cook: true
+image: https://static01.nyt.com/images/2024/02/06/multimedia/KD-philly-cheesesteak-mhqc/KD-philly-cheesesteak-mhqc-mediumSquareAt3X.jpg
+Cook: false
 multiplier: 1
 servings:
 calories: 590
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

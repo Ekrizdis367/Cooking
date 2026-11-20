@@ -2,7 +2,7 @@
 type: recipe
 category: dessert
 source:
-image: "https://www.foodnetwork.com/content/dam/images/food/fullset/2013/7/29/0/BX0903H_cinnamon-baked-doughnuts-recipe_s4x3.jpg"
+image: https://www.foodnetwork.com/content/dam/images/food/fullset/2013/7/29/0/BX0903H_cinnamon-baked-doughnuts-recipe_s4x3.jpg
 Cook: false
 multiplier: 1
 servings:

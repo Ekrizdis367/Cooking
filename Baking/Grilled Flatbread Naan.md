@@ -2,7 +2,7 @@
 type: recipe
 category: bread
 source:
-image: "https://www.kingarthurbaking.com/sites/default/files/2022-07/JCash_KAF_Grilled-Flatbread_A5A8754.jpg"
+image: https://www.kingarthurbaking.com/sites/default/files/2022-07/JCash_KAF_Grilled-Flatbread_A5A8754.jpg
 Cook: false
 multiplier: 1
 servings:

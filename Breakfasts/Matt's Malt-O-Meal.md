@@ -2,7 +2,7 @@
 type: recipe
 category: breakfast
 source:
-image: "https://delicioussidedishes.com/wp-content/uploads/2023/05/hot-cereal.jpg"
+image: https://delicioussidedishes.com/wp-content/uploads/2023/05/hot-cereal.jpg
 Cook: false
 multiplier: 1
 servings:

@@ -2,7 +2,7 @@
 type: recipe
 category: dessert
 source:
-image: "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/1600-3-large.jpg?itok=lcXotaye"
+image: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/1600-3-large.jpg?itok=lcXotaye
 Cook: false
 multiplier: 1
 servings:

@@ -2,7 +2,7 @@
 type: recipe
 category: bread
 source:
-image: "https://beyondthebutter.com/wp-content/uploads/2022/01/Easy-Homemade-Bagels_25.jpg"
+image: https://beyondthebutter.com/wp-content/uploads/2022/01/Easy-Homemade-Bagels_25.jpg
 Cook: false
 multiplier: 1
 servings:

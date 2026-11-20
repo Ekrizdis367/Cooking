@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: seafood
-source: "https://natashaskitchen.com/shrimp-scampi-recipe/"
-image: "https://natashaskitchen.com/wp-content/uploads/2025/07/Shrimp-Scampi-5.jpg"
+source: https://natashaskitchen.com/shrimp-scampi-recipe/
+image: https://natashaskitchen.com/wp-content/uploads/2025/07/Shrimp-Scampi-5.jpg
 Cook: false
 multiplier: 1
 servings: 6

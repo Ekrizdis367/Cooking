@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: bread
-source: "Dungeons & Dragons"
-image: "https://i.ytimg.com/vi/QhI04QJNtl8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCq-7mSXITePmoGxAVnfUQ-NgDwrQ"
+source: Dungeons & Dragons
+image: https://i.ytimg.com/vi/QhI04QJNtl8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCq-7mSXITePmoGxAVnfUQ-NgDwrQ
 Cook: false
 multiplier: 1
 servings: 12

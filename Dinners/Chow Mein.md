@@ -2,7 +2,7 @@
 type: recipe
 category: asian
 source:
-image: "https://tastesbetterfromscratch.com/wp-content/uploads/2023/10/Chow-Mein-1.jpg"
+image: https://tastesbetterfromscratch.com/wp-content/uploads/2023/10/Chow-Mein-1.jpg
 Cook: false
 multiplier: 1
 servings: 1

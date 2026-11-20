@@ -2,7 +2,7 @@
 type: recipe
 category: seasoning
 source:
-image: "https://www.pureindianfoods.com/cdn/shop/articles/homemade-shawarma-spice-mix_87be3145-0903-4358-aac8-214ac5ef48f8.webp?v=1738023091"
+image: https://www.pureindianfoods.com/cdn/shop/articles/homemade-shawarma-spice-mix_87be3145-0903-4358-aac8-214ac5ef48f8.webp?v=1738023091
 Cook: false
 multiplier: 1
 servings:

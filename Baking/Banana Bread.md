@@ -2,7 +2,7 @@
 type: recipe
 category: bread
 source:
-image: "https://sallysbakingaddiction.com/wp-content/uploads/2018/10/homemade-banana-bread.jpg"
+image: https://sallysbakingaddiction.com/wp-content/uploads/2018/10/homemade-banana-bread.jpg
 Cook: false
 multiplier: 1
 servings:

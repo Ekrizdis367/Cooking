@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: pasta
-source: "https://www.allrecipes.com/recipe/23979/shrimp-fettuccine-alfredo/"
-image: "https://www.allrecipes.com/thmb/AMcuTf2KsQJBywrt6MZdCwb_AY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23979shrimp-fettuccine-alfredoYoly4x3-2bc054a073914b01a7039d28106f5297.jpg"
+source: https://www.allrecipes.com/recipe/23979/shrimp-fettuccine-alfredo/
+image: https://www.allrecipes.com/thmb/AMcuTf2KsQJBywrt6MZdCwb_AY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23979shrimp-fettuccine-alfredoYoly4x3-2bc054a073914b01a7039d28106f5297.jpg
 Cook: false
 multiplier: 1
 servings: 6

@@ -2,7 +2,7 @@
 type: recipe
 category: asian
 source:
-image: "https://img.hellofresh.com/hellofresh_s3/image/moo-shu-pork-bowls-05b96033.jpg"
+image: https://img.hellofresh.com/hellofresh_s3/image/moo-shu-pork-bowls-05b96033.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

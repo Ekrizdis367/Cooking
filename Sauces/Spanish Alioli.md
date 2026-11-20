@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: sandwich
-source: "https://spanishsabores.com/easy-spanish-alioli-recipe-homemade-garlic-mayonnaise/"
-image: "https://spanishsabores.com/wp-content/uploads/2023/09/Garlic-Alioli-Featured.jpg"
+source: https://spanishsabores.com/easy-spanish-alioli-recipe-homemade-garlic-mayonnaise/
+image: https://spanishsabores.com/wp-content/uploads/2023/09/Garlic-Alioli-Featured.jpg
 Cook: false
 multiplier: 1
 servings: 8

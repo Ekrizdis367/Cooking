@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: pasta
-source: "https://preppykitchen.com/cajun-shrimp-pasta/"
-image: "https://preppykitchen.com/wp-content/uploads/2024/02/Cajun-Shrimp-Pasta-Recipe-Card.jpg"
+source: https://preppykitchen.com/cajun-shrimp-pasta/
+image: https://preppykitchen.com/wp-content/uploads/2024/02/Cajun-Shrimp-Pasta-Recipe-Card.jpg
 Cook: false
 multiplier: 1
 servings: 6

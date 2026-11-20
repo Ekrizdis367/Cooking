@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: pizza
-source: "https://www.simplyrecipes.com/recipes/homemade_pizza/"
-image: "https://www.simplyrecipes.com/thmb/v8MIAcAGsy4jYSTGRcMoLQ-wcfc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Homemade-Pizza-METHOD-10-01f70ecc84ea4a63bb5a723e5a027a09.jpg"
+source: https://www.simplyrecipes.com/recipes/homemade_pizza/
+image: https://www.simplyrecipes.com/thmb/v8MIAcAGsy4jYSTGRcMoLQ-wcfc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Homemade-Pizza-METHOD-10-01f70ecc84ea4a63bb5a723e5a027a09.jpg
 Cook: false
 multiplier: 1
 servings: 6

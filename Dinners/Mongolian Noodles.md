@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: asian
-source: "https://izzycooking.com/mongolian-bbq/"
-image: "https://izzycooking.com/wp-content/uploads/2020/05/Mongolian-BBQ-thumbnail.jpg"
+source: https://izzycooking.com/mongolian-bbq/
+image: https://thecinnamonjar.com/wp-content/uploads/2024/12/mongolian-ground-beef-noodles-5-of-5.jpg
 Cook: false
 multiplier: 1
 servings: 4

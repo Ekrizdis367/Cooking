@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: bbq
-source: "https://cookingformysoul.com/oven-baked-ribs/"
-image: "https://cookingformysoul.com/wp-content/uploads/2026/03/featured-oven-baked-ribs-min.jpg"
+source: https://cookingformysoul.com/oven-baked-ribs/
+image: https://cookingformysoul.com/wp-content/uploads/2026/03/featured-oven-baked-ribs-min.jpg
 Cook: false
 multiplier: 1
 servings: 6

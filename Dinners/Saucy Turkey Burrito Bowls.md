@@ -2,7 +2,7 @@
 type: recipe
 category: mexican
 source:
-image: "https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/620d4cbb65450c0cb1670a3d-5f5fafa0.jpg"
+image: https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/620d4cbb65450c0cb1670a3d-5f5fafa0.jpg
 Cook: false
 multiplier: 1
 servings:

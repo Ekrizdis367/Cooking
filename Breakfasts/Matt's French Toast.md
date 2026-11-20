@@ -2,7 +2,7 @@
 type: recipe
 category: breakfast
 source:
-image: "https://tastesbetterfromscratch.com/wp-content/uploads/2022/09/French-Toast-1-500x500.jpg"
+image: https://tastesbetterfromscratch.com/wp-content/uploads/2022/09/French-Toast-1-500x500.jpg
 Cook: false
 multiplier: 1
 servings:

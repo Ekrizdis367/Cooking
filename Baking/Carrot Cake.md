@@ -2,7 +2,7 @@
 type: recipe
 category: dessert
 source:
-image: "https://static01.nyt.com/images/2020/11/01/dining/Carrot-Cake-textless/Carrot-Cake-textless-videoSixteenByNineJumbo1600.jpg"
+image: https://static01.nyt.com/images/2020/11/01/dining/Carrot-Cake-textless/Carrot-Cake-textless-videoSixteenByNineJumbo1600.jpg
 Cook: false
 multiplier: 1
 servings:

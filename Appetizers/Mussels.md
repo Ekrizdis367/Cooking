@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: seafood
-source: "https://www.recipetineats.com/how-to-cook-mussels/"
-image: "https://www.recipetineats.com/tachyon/2014/05/Mussels-with-Garlic-White-Wine_4.jpg"
+source: https://www.recipetineats.com/how-to-cook-mussels/
+image: https://www.recipetineats.com/tachyon/2014/05/Mussels-with-Garlic-White-Wine_4.jpg
 Cook: false
 multiplier: 1
 servings: 4

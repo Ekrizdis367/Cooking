@@ -2,7 +2,7 @@
 type: recipe
 category: pasta
 source:
-image: "https://juliasalbum.com/wp-content/uploads/2013/02/8481118736_177f15b687_z.jpg"
+image: https://juliasalbum.com/wp-content/uploads/2013/02/8481118736_177f15b687_z.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -20,7 +20,7 @@ lastMade:
 cookedCount: 0
 ---
 
-# Ingredients
+## Ingredients
 
 - [ ] 9 Manicotti pasta shells #Pasta 
 - [ ] 1 tablespoon olive oil #Oil 
@@ -35,7 +35,7 @@ cookedCount: 0
 - [ ] 1/2 cup red wine #Alcohol 
 - [ ] 1/4 cup Parmesan cheese #Dairy 
 
-# Instructions
+## Instructions
 
 ###### Make ricotta cheese and spinach filling:
 

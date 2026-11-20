@@ -2,7 +2,7 @@
 type: recipe
 category: mexican
 source:
-image: "https://justcook.butcherbox.com/wp-content/uploads/2024/02/Panko-Breaded-Fish-Tacos-with-Jalapeno-Slaw-500x375.jpg"
+image: https://justcook.butcherbox.com/wp-content/uploads/2024/02/Panko-Breaded-Fish-Tacos-with-Jalapeno-Slaw-500x375.jpg
 Cook: false
 multiplier: 1
 servings:

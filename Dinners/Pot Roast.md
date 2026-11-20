@@ -2,7 +2,7 @@
 type: recipe
 category: beef
 source:
-image: "https://cdn.jwplayer.com/v2/media/RK4vmDrY/thumbnails/W7Br07p4.jpg"
+image: https://cdn.jwplayer.com/v2/media/RK4vmDrY/thumbnails/W7Br07p4.jpg
 Cook: false
 multiplier: 1
 servings:

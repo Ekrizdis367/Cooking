@@ -2,7 +2,7 @@
 type: recipe
 category: sandwich
 source:
-image: "https://img.hellofresh.com/hellofresh_s3/image/sweet-thai-chili-burgers-674e40bb.jpg"
+image: https://img.hellofresh.com/hellofresh_s3/image/sweet-thai-chili-burgers-674e40bb.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

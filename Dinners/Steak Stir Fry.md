@@ -2,7 +2,7 @@
 type: recipe
 category: asian
 source:
-image:
+image: https://www.allrecipes.com/thmb/7N-Xq1XMMJw8G0KJv2e0ETUYB2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228823-quick-beef-stir-fry-DDMFS-4x3-1f79b031d3134f02ac27d79e967dfef5.jpg
 Cook: false
 multiplier: 1
 servings:

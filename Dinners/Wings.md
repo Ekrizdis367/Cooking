@@ -2,7 +2,7 @@
 type: recipe
 category: chicken
 source:
-image: "https://static01.nyt.com/images/2025/01/31/multimedia/DP-Garlic-Parmesan-Wings-hgqc/DP-Garlic-Parmesan-Wings-hgqc-mediumSquareAt3X.jpg"
+image: https://static01.nyt.com/images/2025/01/31/multimedia/DP-Garlic-Parmesan-Wings-hgqc/DP-Garlic-Parmesan-Wings-hgqc-mediumSquareAt3X.jpg
 Cook: false
 multiplier: 1
 servings:
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients

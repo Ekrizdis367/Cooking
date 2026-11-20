@@ -2,8 +2,8 @@
 type: recipe
 category: sandwich
 source:
-image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1999&q=80"
-Cook: true
+image: https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1999&q=80
+Cook: false
 multiplier: 1
 servings:
 calories: 560
@@ -18,13 +18,14 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients
 
 - 1 Onion #Produce
 - 24 oz Potatoes #Produce
-- 20 oz Ground Beef #Meat
+- 2 lbs Ground Beef #Meat
 - 4 slice Cheese #Dairy
 - 4 Potato Buns #Bread
 - 2 tbsp Old Bay Seasoning #Seasoning

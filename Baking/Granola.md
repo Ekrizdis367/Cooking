@@ -2,7 +2,7 @@
 type: recipe
 category: breakfast
 source:
-image: "https://cookieandkate.com/images/2015/10/best-granola-recipe-1.jpg"
+image: https://cookieandkate.com/images/2015/10/best-granola-recipe-1.jpg
 Cook: false
 multiplier: 1
 servings:

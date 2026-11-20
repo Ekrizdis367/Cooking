@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: mexican
-source: "https://www.theseasonedmom.com/homemade-nachos/"
-image: "https://www.theseasonedmom.com/wp-content/uploads/2024/07/ground-beef-nachos-9.jpg"
+source: https://www.theseasonedmom.com/homemade-nachos/
+image: https://www.theseasonedmom.com/wp-content/uploads/2024/07/ground-beef-nachos-9.jpg
 Cook: false
 multiplier: 1
 servings: 8
@@ -18,17 +18,21 @@ totalTime: 30
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients
 
-- 1 lb . Ground Beef
-- ½ cup Finely Chopped Onion
-- 1 (1 Ounce) Packet Taco Seasoning Mix
-- 1 Large Bag Tortilla Chips ((About 11 Ounces))
-- 4 cup Grated Cheese ((Try Cheddar, Monterey Jack, Pepper Jack, Colby, or a Combination of These))
-- ½ cup Pickled Jalapeños, (Patted Dry (Optional))
-- Optional Toppings: Chopped Tomato, Salsa, Sour Cream, Sliced Black Olives, Chopped Green Onions, Fresh Cilantro, Diced Avocado or Guacamole
+- 1 lb . Ground Beef #Meat 
+- ½ cup Finely Chopped Onion #Produce 
+- 1 (1 Ounce) Packet Taco Seasoning Mix #Seasoning 
+- 1 Large Bag Tortilla Chips #Snack 
+- 4 cup shredded cheese #Dairy 
+- ½ cup Pickled Jalapeños #Canned 
+- Sliced olives #Canned 
+- Sour Cream #Dairy 
+- Salsa #Sauce 
+- Guacamole #Produce 
 
 ## Instructions
 

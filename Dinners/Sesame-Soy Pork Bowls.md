@@ -2,8 +2,8 @@
 type: recipe
 category: asian
 source:
-image: "https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/62fba3cb426acbca87073c2a-9d881539.jpg"
-Cook: true
+image: https://media.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/62fba3cb426acbca87073c2a-9d881539.jpg
+Cook: false
 multiplier: 1
 servings:
 calories: 480

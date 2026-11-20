@@ -2,7 +2,7 @@
 type: recipe
 category: rice
 source:
-image: "https://tastesbetterfromscratch.com/wp-content/uploads/2020/04/Paella-7.jpg"
+image: https://tastesbetterfromscratch.com/wp-content/uploads/2020/04/Paella-7.jpg
 Cook: false
 multiplier: 1
 servings:

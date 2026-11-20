@@ -2,7 +2,7 @@
 type: recipe
 category: dessert
 source:
-image: "https://seattleite.com/wp-content/uploads/2025/01/img_0922-1.jpg?w=1024"
+image: https://seattleite.com/wp-content/uploads/2025/01/img_0922-1.jpg?w=1024
 Cook: false
 multiplier: 1
 servings:
@@ -20,7 +20,7 @@ lastMade:
 cookedCount: 0
 ---
 
-# Ingredients
+## Ingredients
 
 Cake
 
@@ -57,7 +57,7 @@ Whipped cream
 - ½ teaspoon vanilla paste, extract, or seeds from ½ a vanilla bean
 - 1 pinch salt
 
-# Instructions
+## Instructions
 
 ### Sour Cream Ice Cream
 

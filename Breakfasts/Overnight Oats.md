@@ -2,7 +2,7 @@
 type: recipe
 category: breakfast
 source:
-image: "https://feelgoodfoodie.net/wp-content/uploads/2023/04/Overnight-Oats-26.jpg"
+image: https://feelgoodfoodie.net/wp-content/uploads/2023/04/Overnight-Oats-26.jpg
 Cook: false
 multiplier: 1
 servings:

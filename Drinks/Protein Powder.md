@@ -20,10 +20,7 @@ lastMade:
 cookedCount: 0
 ---
 
-# Ingredients
+## Ingredients
 
-- [ ] Test
+## Instructions
 
-# Instructions
-
-1. Test

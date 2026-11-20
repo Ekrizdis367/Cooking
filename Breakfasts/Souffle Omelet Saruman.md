@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: breakfast
-source: "The Lord of the Rings"
-image: "https://www.seriouseats.com/thmb/vGhkpjefbS-4k3juk0wC9Pc0e3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__02__20190122-souffle-omelet-vicky-wasik-13-1500x1125-7b09932307024ecab482369635c97a16.jpg"
+source: The Lord of the Rings
+image: https://www.seriouseats.com/thmb/vGhkpjefbS-4k3juk0wC9Pc0e3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__02__20190122-souffle-omelet-vicky-wasik-13-1500x1125-7b09932307024ecab482369635c97a16.jpg
 Cook: false
 multiplier: 1
 servings: 1

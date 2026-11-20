@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: soup
-source: "Dungeons & Dragons"
-image: "https://i0.wp.com/www.pardonyourfrench.com/wp-content/uploads/2021/02/Garbure-1.jpg?resize=1170%2C1753&ssl=1"
+source: Dungeons & Dragons
+image: https://i0.wp.com/www.pardonyourfrench.com/wp-content/uploads/2021/02/Garbure-1.jpg?resize=1170%2C1753&ssl=1
 Cook: false
 multiplier: 1
 servings: 2

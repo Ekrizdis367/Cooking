@@ -2,7 +2,7 @@
 type: recipe
 category: sandwich
 source:
-image: "https://www.allrecipes.com/thmb/rW4EVCGNrNflXxw8U1iN1y-_7BU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14524_wisconsin-brats_ddmfs_4x3_1149-3bbb0beec69942ada6e196d2e0602a53.jpg"
+image: https://www.allrecipes.com/thmb/rW4EVCGNrNflXxw8U1iN1y-_7BU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14524_wisconsin-brats_ddmfs_4x3_1149-3bbb0beec69942ada6e196d2e0602a53.jpg
 Cook: false
 multiplier: 1
 servings:

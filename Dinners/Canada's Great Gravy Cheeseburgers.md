@@ -2,7 +2,7 @@
 type: recipe
 category: sandwich
 source:
-image: "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/6670789998f15bd5272cfb35-04f7dc00.png"
+image: https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/6670789998f15bd5272cfb35-04f7dc00.png
 Cook: false
 multiplier: 1
 servings:

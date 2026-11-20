@@ -2,7 +2,7 @@
 type: recipe
 category: bread
 source: Supernatural
-image: "https://i.imgur.com/sZLcmWv.jpg"
+image: https://i.imgur.com/sZLcmWv.jpg
 Cook: false
 multiplier: 1
 servings: 6

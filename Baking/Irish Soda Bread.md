@@ -1,8 +1,8 @@
 ---
 type: recipe
 category: bread
-source: "https://sallysbakingaddiction.com/grandmas-irish-soda-bread/"
-image: "https://sallysbakingaddiction.com/wp-content/uploads/2015/03/irish-soda-bread-loaf-225x225.jpg"
+source: https://sallysbakingaddiction.com/grandmas-irish-soda-bread/
+image: https://sallysbakingaddiction.com/wp-content/uploads/2015/03/irish-soda-bread-loaf-225x225.jpg
 Cook: false
 multiplier: 1
 servings: 1

@@ -2,9 +2,9 @@
 type: recipe
 category: pasta
 source:
-image: "https://www.berlyskitchen.com/wp-content/uploads/2021/02/Jalapeno-Bacon-Mac-and-Cheese-Featured-Image.jpg"
+image: https://www.berlyskitchen.com/wp-content/uploads/2021/02/Jalapeno-Bacon-Mac-and-Cheese-Featured-Image.jpg
 Cook: false
-multiplier: 1
+multiplier: 2
 servings:
 calories: 550
 protein: 30
@@ -18,6 +18,7 @@ totalTime:
 favorite: false
 lastMade:
 cookedCount: 0
+groceryList: false
 ---
 
 ## Ingredients
@@ -43,9 +44,9 @@ cookedCount: 0
 4. Turn off heat; transfer to a paper-towel-lined plate.
 5. Carefully discard all but a thin layer of bacon fat from pan (you’ll use this to cook the aromatics later).
 6. While bacon cooks, wash and dry produce.
-7. - Halve jalapeño crosswise, removing ribs and seeds for less heat; thinly slice one half into rounds and finely dice remaining.
-8. - Trim and thinly slice scallions, separating whites from greens.
-9. - Peel and mince garlic.
+7. Halve jalapeño crosswise, removing ribs and seeds for less heat; thinly slice one half into rounds and finely dice remaining.
+8. Trim and thinly slice scallions, separating whites from greens.
+9. Peel and mince garlic.
 10. Once water is boiling, add cavatappi to pot.
 11. Cook, stirring occasionally, until al dente, 9-11 minutes. Reserve 1 cup pasta cooking water (2 cups for 4 servings), then drain.
 12. While pasta cooks, place 1 TBSP butter (2 TBSP for 4) in a small microwave-safe bowl; microwave until melted, 30 seconds.
